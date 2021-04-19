@@ -4,20 +4,16 @@
     <display-name lang="es">AZTECA UNO HD</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
+  <channel id="Canal 5 de México (XHGC)">
+    <display-name lang="es">CANAL 5</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
   <channel id="Canal 2 de México (Canal Las Estrellas - XEW) ">
     <display-name lang="es">LAS ESTRELLAS HD</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
   <channel id="Canal Azteca 7  (México)">
     <display-name lang="es">AZTECA 7</display-name>
-    <url>http://www.gatotv.com</url>
-  </channel>
-  <channel id="Canal Animal Planet (México)">
-    <display-name lang="es">ANIMAL PLANET</display-name>
-    <url>http://www.gatotv.com</url>
-  </channel>
-  <channel id="Canal AXN (México)">
-    <display-name lang="es">AXN</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
   <channel id="Canal ESPN (México)">
@@ -46,6 +42,10 @@
   </channel>
   <channel id="Canal Adrenalina Sports Network">
     <display-name lang="es">ADRENALINA SPORTS HD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal TUDN (México)">
+    <display-name lang="es">TUDN</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
   <channel id="Canal Cartoon Network (México)">
@@ -100,8 +100,88 @@
     <display-name lang="es">STUDIO UNIVERSAL</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
-  <channel id="Canal 5 de México (XHGC)">
-    <display-name lang="es">CANAL 5</display-name>
+  <channel id="Canal De Película">
+    <display-name lang="es">DE PELICULA +</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Cinemax (México)">
+    <display-name lang="es">CINEMAX</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal TNT Series">
+    <display-name lang="es">TNT SERIES</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Sony Entertainment Television (Latinoamérica)">
+    <display-name lang="es">SONY</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Warner TV (México)">
+    <display-name lang="es">WARNER</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal E! Entertainment Television (Panregional)">
+    <display-name lang="es">E!</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Universal TV (México)">
+    <display-name lang="es">UNIVERSAL</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal SyFy">
+    <display-name lang="es">SYFY</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal AXN (México)">
+    <display-name lang="es">AXN</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Unicable (México)">
+    <display-name lang="es">UNICABLE SD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal SundanceTV Latinoamérica">
+    <display-name lang="es">SUNDANCE TV</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Glitz">
+    <display-name lang="es">GLITZ</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Elgourmet">
+    <display-name lang="es">GOURMET</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Fox Life">
+    <display-name lang="es">FOX LIFE</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Distrito Comedia">
+    <display-name lang="es">DISTRITO COMEDIA SD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal truTV">
+    <display-name lang="es">TRUTV</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Lifetime (México)">
+    <display-name lang="es">LIFETIME</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Antena 3">
+    <display-name lang="es">ANTENA 3</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal FX (México)">
+    <display-name lang="es">FX</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Comedy Central (México)">
+    <display-name lang="es">COMEDY CENTRAL</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Animal Planet (México)">
+    <display-name lang="es">ANIMAL PLANET</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
   <channel id="Canal Discovery Channel (México)">
@@ -210,6 +290,75 @@
   </programme>
   <programme start="20210419234500 -0500" stop="20210420001500 -0500" channel="Canal Azteca Uno">
     <title lang="es">Los protagonistas</title>
+  </programme>
+  <programme start="20210419020000 -0500" stop="20210419040000 -0500" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20210419040000 -0500" stop="20210419043000 -0500" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20210419043000 -0500" stop="20210419050000 -0500" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Lo mejor de Aqui y Ahora</title>
+  </programme>
+  <programme start="20210419050000 -0500" stop="20210419063000 -0500" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20210419063000 -0500" stop="20210419070000 -0500" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Thomas y sus amigos</title>
+  </programme>
+  <programme start="20210419070000 -0500" stop="20210419073000 -0500" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Super Wings</title>
+  </programme>
+  <programme start="20210419073000 -0500" stop="20210419080000 -0500" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Peppa Pig</title>
+  </programme>
+  <programme start="20210419080000 -0500" stop="20210419083000 -0500" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Ositos Cariñositos</title>
+  </programme>
+  <programme start="20210419083000 -0500" stop="20210419090000 -0500" channel="Canal 5 de México (XHGC)">
+    <title lang="es">PJ Masks: Héroes en Pijamas</title>
+  </programme>
+  <programme start="20210419090000 -0500" stop="20210419093000 -0500" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Power Players</title>
+  </programme>
+  <programme start="20210419093000 -0500" stop="20210419100000 -0500" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Trulli Tales</title>
+  </programme>
+  <programme start="20210419100000 -0500" stop="20210419110000 -0500" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Turbo</title>
+  </programme>
+  <programme start="20210419110000 -0500" stop="20210419120000 -0500" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Viva el rey Julien</title>
+  </programme>
+  <programme start="20210419120000 -0500" stop="20210419130000 -0500" channel="Canal 5 de México (XHGC)">
+    <title lang="es">The Loud House</title>
+  </programme>
+  <programme start="20210419130000 -0500" stop="20210419140000 -0500" channel="Canal 5 de México (XHGC)">
+    <title lang="es">El Chapulín Colorado</title>
+  </programme>
+  <programme start="20210419140000 -0500" stop="20210419150000 -0500" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Las aventuras de Ladybug</title>
+  </programme>
+  <programme start="20210419150000 -0500" stop="20210419160000 -0500" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Bob Esponja</title>
+  </programme>
+  <programme start="20210419160000 -0500" stop="20210419170000 -0500" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Full house</title>
+  </programme>
+  <programme start="20210419170000 -0500" stop="20210419183000 -0500" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Drake y Josh</title>
+  </programme>
+  <programme start="20210419183000 -0500" stop="20210419200000 -0500" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Malcolm el de en medio</title>
+  </programme>
+  <programme start="20210419200000 -0500" stop="20210419220000 -0500" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Me caigo de risa</title>
+  </programme>
+  <programme start="20210419220000 -0500" stop="20210419230000 -0500" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Fear the Walking Dead</title>
+  </programme>
+  <programme start="20210419230000 -0500" stop="20210420000000 -0500" channel="Canal 5 de México (XHGC)">
+    <title lang="es">La Reina del Sur</title>
   </programme>
   <programme start="20210419011000 -0500" stop="20210419031000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW) ">
     <title lang="es">Infomerciales</title>
@@ -336,180 +485,6 @@
   </programme>
   <programme start="20210419233000 -0500" stop="20210420003000 -0500" channel="Canal Azteca 7  (México)">
     <title lang="es">Bones</title>
-  </programme>
-  <programme start="20210419001800 -0500" stop="20210419010800 -0500" channel="Canal Animal Planet (México)">
-    <title lang="es">Guaridas con estilo</title>
-  </programme>
-  <programme start="20210419010800 -0500" stop="20210419020100 -0500" channel="Canal Animal Planet (México)">
-    <title lang="es">Guardianes de Texas</title>
-  </programme>
-  <programme start="20210419020100 -0500" stop="20210419025400 -0500" channel="Canal Animal Planet (México)">
-    <title lang="es">Coyote Peterson aventuras sa</title>
-  </programme>
-  <programme start="20210419025400 -0500" stop="20210419034400 -0500" channel="Canal Animal Planet (México)">
-    <title lang="es">Indochina salvaje</title>
-  </programme>
-  <programme start="20210419034400 -0500" stop="20210419043700 -0500" channel="Canal Animal Planet (México)">
-    <title lang="es">Con el agua al cuello</title>
-  </programme>
-  <programme start="20210419043700 -0500" stop="20210419050300 -0500" channel="Canal Animal Planet (México)">
-    <title lang="es">Los reyes de las piscinas</title>
-  </programme>
-  <programme start="20210419050300 -0500" stop="20210419053000 -0500" channel="Canal Animal Planet (México)">
-    <title lang="es">Los reyes de las piscinas</title>
-  </programme>
-  <programme start="20210419053000 -0500" stop="20210419060000 -0500" channel="Canal Animal Planet (México)">
-    <title lang="es">Los secretos del reino animal</title>
-  </programme>
-  <programme start="20210419060000 -0500" stop="20210419062800 -0500" channel="Canal Animal Planet (México)">
-    <title lang="es">Misterios del mundo anim</title>
-  </programme>
-  <programme start="20210419062800 -0500" stop="20210419072000 -0500" channel="Canal Animal Planet (México)">
-    <title lang="es">Mansiones en los Árboles</title>
-  </programme>
-  <programme start="20210419072000 -0500" stop="20210419081200 -0500" channel="Canal Animal Planet (México)">
-    <title lang="es">Mansiones en los Árboles</title>
-  </programme>
-  <programme start="20210419081200 -0500" stop="20210419090400 -0500" channel="Canal Animal Planet (México)">
-    <title lang="es">Mansiones en los Árboles</title>
-  </programme>
-  <programme start="20210419090400 -0500" stop="20210419095800 -0500" channel="Canal Animal Planet (México)">
-    <title lang="es">Guardianes de Texas</title>
-  </programme>
-  <programme start="20210419095800 -0500" stop="20210419105200 -0500" channel="Canal Animal Planet (México)">
-    <title lang="es">Coyote Peterson aventuras sa</title>
-  </programme>
-  <programme start="20210419105200 -0500" stop="20210419114600 -0500" channel="Canal Animal Planet (México)">
-    <title lang="es">Indochina salvaje</title>
-  </programme>
-  <programme start="20210419114600 -0500" stop="20210419124000 -0500" channel="Canal Animal Planet (México)">
-    <title lang="es">Pesca mortal</title>
-  </programme>
-  <programme start="20210419124000 -0500" stop="20210419133400 -0500" channel="Canal Animal Planet (México)">
-    <title lang="es">Pescadores al límite</title>
-  </programme>
-  <programme start="20210419133400 -0500" stop="20210419142800 -0500" channel="Canal Animal Planet (México)">
-    <title lang="es">Solo y en peligro</title>
-  </programme>
-  <programme start="20210419142800 -0500" stop="20210419152200 -0500" channel="Canal Animal Planet (México)">
-    <title lang="es">Solo y en peligro</title>
-  </programme>
-  <programme start="20210419152200 -0500" stop="20210419161600 -0500" channel="Canal Animal Planet (México)">
-    <title lang="es">Dinosaurios modernos</title>
-  </programme>
-  <programme start="20210419161600 -0500" stop="20210419164400 -0500" channel="Canal Animal Planet (México)">
-    <title lang="es">Guardianes de Borneo</title>
-  </programme>
-  <programme start="20210419164400 -0500" stop="20210419171200 -0500" channel="Canal Animal Planet (México)">
-    <title lang="es">Guardianes de Borneo</title>
-  </programme>
-  <programme start="20210419171200 -0500" stop="20210419180600 -0500" channel="Canal Animal Planet (México)">
-    <title lang="es">Europa salvaje</title>
-  </programme>
-  <programme start="20210419180600 -0500" stop="20210419190000 -0500" channel="Canal Animal Planet (México)">
-    <title lang="es">Wild Frank en California</title>
-  </programme>
-  <programme start="20210419190000 -0500" stop="20210419195400 -0500" channel="Canal Animal Planet (México)">
-    <title lang="es">Pesca mortal</title>
-  </programme>
-  <programme start="20210419195400 -0500" stop="20210419204800 -0500" channel="Canal Animal Planet (México)">
-    <title lang="es">Monstruos de río</title>
-  </programme>
-  <programme start="20210419204800 -0500" stop="20210419214100 -0500" channel="Canal Animal Planet (México)">
-    <title lang="es">Monstruos de río</title>
-  </programme>
-  <programme start="20210419214100 -0500" stop="20210419223200 -0500" channel="Canal Animal Planet (México)">
-    <title lang="es">Monstruos de río</title>
-  </programme>
-  <programme start="20210419223200 -0500" stop="20210419232500 -0500" channel="Canal Animal Planet (México)">
-    <title lang="es">El zoológico del Bronx</title>
-  </programme>
-  <programme start="20210419232500 -0500" stop="20210420001800 -0500" channel="Canal Animal Planet (México)">
-    <title lang="es">El acuario</title>
-  </programme>
-  <programme start="20210419004000 -0500" stop="20210419013000 -0500" channel="Canal AXN (México)">
-    <title lang="es">Criminal Minds</title>
-  </programme>
-  <programme start="20210419013000 -0500" stop="20210419022500 -0500" channel="Canal AXN (México)">
-    <title lang="es">Criminal Minds</title>
-  </programme>
-  <programme start="20210419022500 -0500" stop="20210419032000 -0500" channel="Canal AXN (México)">
-    <title lang="es">Criminal Minds</title>
-  </programme>
-  <programme start="20210419032000 -0500" stop="20210419041500 -0500" channel="Canal AXN (México)">
-    <title lang="es">Criminal Minds</title>
-  </programme>
-  <programme start="20210419041500 -0500" stop="20210419050500 -0500" channel="Canal AXN (México)">
-    <title lang="es">Criminal Minds</title>
-  </programme>
-  <programme start="20210419050500 -0500" stop="20210419060000 -0500" channel="Canal AXN (México)">
-    <title lang="es">Criminal Minds</title>
-  </programme>
-  <programme start="20210419060000 -0500" stop="20210419064500 -0500" channel="Canal AXN (México)">
-    <title lang="es">CSI</title>
-  </programme>
-  <programme start="20210419064500 -0500" stop="20210419073500 -0500" channel="Canal AXN (México)">
-    <title lang="es">CSI</title>
-  </programme>
-  <programme start="20210419073500 -0500" stop="20210419082000 -0500" channel="Canal AXN (México)">
-    <title lang="es">CSI</title>
-  </programme>
-  <programme start="20210419082000 -0500" stop="20210419091000 -0500" channel="Canal AXN (México)">
-    <title lang="es">Criminal Minds</title>
-  </programme>
-  <programme start="20210419091000 -0500" stop="20210419100000 -0500" channel="Canal AXN (México)">
-    <title lang="es">Criminal Minds</title>
-  </programme>
-  <programme start="20210419100000 -0500" stop="20210419105000 -0500" channel="Canal AXN (México)">
-    <title lang="es">Criminal Minds</title>
-  </programme>
-  <programme start="20210419105000 -0500" stop="20210419114000 -0500" channel="Canal AXN (México)">
-    <title lang="es">Criminal Minds</title>
-  </programme>
-  <programme start="20210419114000 -0500" stop="20210419123000 -0500" channel="Canal AXN (México)">
-    <title lang="es">Criminal Minds</title>
-  </programme>
-  <programme start="20210419123000 -0500" stop="20210419132000 -0500" channel="Canal AXN (México)">
-    <title lang="es">Criminal Minds</title>
-  </programme>
-  <programme start="20210419132000 -0500" stop="20210419141000 -0500" channel="Canal AXN (México)">
-    <title lang="es">Criminal Minds</title>
-  </programme>
-  <programme start="20210419141000 -0500" stop="20210419150000 -0500" channel="Canal AXN (México)">
-    <title lang="es">Criminal Minds</title>
-  </programme>
-  <programme start="20210419150000 -0500" stop="20210419155000 -0500" channel="Canal AXN (México)">
-    <title lang="es">Criminal Minds</title>
-  </programme>
-  <programme start="20210419155000 -0500" stop="20210419164000 -0500" channel="Canal AXN (México)">
-    <title lang="es">Criminal Minds</title>
-  </programme>
-  <programme start="20210419164000 -0500" stop="20210419173000 -0500" channel="Canal AXN (México)">
-    <title lang="es">Criminal Minds</title>
-  </programme>
-  <programme start="20210419173000 -0500" stop="20210419182000 -0500" channel="Canal AXN (México)">
-    <title lang="es">Criminal Minds</title>
-  </programme>
-  <programme start="20210419182000 -0500" stop="20210419191000 -0500" channel="Canal AXN (México)">
-    <title lang="es">Criminal Minds</title>
-  </programme>
-  <programme start="20210419191000 -0500" stop="20210419200000 -0500" channel="Canal AXN (México)">
-    <title lang="es">Criminal Minds</title>
-  </programme>
-  <programme start="20210419200000 -0500" stop="20210419210000 -0500" channel="Canal AXN (México)">
-    <title lang="es">Candice renoir</title>
-  </programme>
-  <programme start="20210419210000 -0500" stop="20210419220000 -0500" channel="Canal AXN (México)">
-    <title lang="es">Candice renoir</title>
-  </programme>
-  <programme start="20210419220000 -0500" stop="20210419225500 -0500" channel="Canal AXN (México)">
-    <title lang="es">Harrow</title>
-  </programme>
-  <programme start="20210419225500 -0500" stop="20210419235000 -0500" channel="Canal AXN (México)">
-    <title lang="es">Criminal Minds</title>
-  </programme>
-  <programme start="20210419235000 -0500" stop="20210420004500 -0500" channel="Canal AXN (México)">
-    <title lang="es">Criminal Minds</title>
   </programme>
   <programme start="20210419010000 -0500" stop="20210419030000 -0500" channel="Canal ESPN (México)">
     <title lang="es">Leicester City vs. Southampton</title>
@@ -855,6 +830,57 @@
   </programme>
   <programme start="20210419234500 -0500" stop="20210420001500 -0500" channel="Canal Adrenalina Sports Network">
     <title lang="es">Gran Fondo NY 1 Monterrey</title>
+  </programme>
+  <programme start="20210419010000 -0500" stop="20210419030000 -0500" channel="Canal TUDN (México)">
+    <title lang="es">América Vs. Cruz Azul</title>
+  </programme>
+  <programme start="20210419030000 -0500" stop="20210419050000 -0500" channel="Canal TUDN (México)">
+    <title lang="es">UNAM vs. Querétaro</title>
+  </programme>
+  <programme start="20210419050000 -0500" stop="20210419060000 -0500" channel="Canal TUDN (México)">
+    <title lang="es">La Jugada</title>
+  </programme>
+  <programme start="20210419060000 -0500" stop="20210419070000 -0500" channel="Canal TUDN (México)">
+    <title lang="es">Contacto deportivo</title>
+  </programme>
+  <programme start="20210419070000 -0500" stop="20210419080000 -0500" channel="Canal TUDN (México)">
+    <title lang="es">La Jugada</title>
+  </programme>
+  <programme start="20210419080000 -0500" stop="20210419090000 -0500" channel="Canal TUDN (México)">
+    <title lang="es">Hazaña del deporte Vive</title>
+  </programme>
+  <programme start="20210419090000 -0500" stop="20210419110000 -0500" channel="Canal TUDN (México)">
+    <title lang="es">UNAM vs. Querétaro</title>
+  </programme>
+  <programme start="20210419110000 -0500" stop="20210419120000 -0500" channel="Canal TUDN (México)">
+    <title lang="es">Los Mejores Versus</title>
+  </programme>
+  <programme start="20210419120000 -0500" stop="20210419140000 -0500" channel="Canal TUDN (México)">
+    <title lang="es">América Vs. Cruz Azul</title>
+  </programme>
+  <programme start="20210419140000 -0500" stop="20210419150000 -0500" channel="Canal TUDN (México)">
+    <title lang="es">Somos Expansión</title>
+  </programme>
+  <programme start="20210419150000 -0500" stop="20210419155500 -0500" channel="Canal TUDN (México)">
+    <title lang="es">Fut en 60</title>
+  </programme>
+  <programme start="20210419155500 -0500" stop="20210419180000 -0500" channel="Canal TUDN (México)">
+    <title lang="es">Toluca vs. Santos En Vivo</title>
+  </programme>
+  <programme start="20210419180000 -0500" stop="20210419185500 -0500" channel="Canal TUDN (México)">
+    <title lang="es">Futbol club</title>
+  </programme>
+  <programme start="20210419185500 -0500" stop="20210419210000 -0500" channel="Canal TUDN (México)">
+    <title lang="es">Bravas vs. Puebla En Vivo</title>
+  </programme>
+  <programme start="20210419210000 -0500" stop="20210419220000 -0500" channel="Canal TUDN (México)">
+    <title lang="es">Contacto deportivo</title>
+  </programme>
+  <programme start="20210419220000 -0500" stop="20210419230000 -0500" channel="Canal TUDN (México)">
+    <title lang="es">Línea de cuatro</title>
+  </programme>
+  <programme start="20210419230000 -0500" stop="20210420000000 -0500" channel="Canal TUDN (México)">
+    <title lang="es">Contacto deportivo</title>
   </programme>
   <programme start="20210419010000 -0500" stop="20210419020000 -0500" channel="Canal Cartoon Network (México)">
     <title lang="es">El mundo de Craig</title>

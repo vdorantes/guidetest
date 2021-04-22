@@ -228,1384 +228,1435 @@
     <display-name lang="es">BANDAMAX SD</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
-  <programme start="20210420001500 -0500" stop="20210420003000 -0500" channel="Canal Azteca Uno">
+  <programme start="20210422001500 -0500" stop="20210422003000 -0500" channel="Canal Azteca Uno">
     <title lang="es">Himno Nacional</title>
   </programme>
-  <programme start="20210420003000 -0500" stop="20210420040000 -0500" channel="Canal Azteca Uno">
+  <programme start="20210422003000 -0500" stop="20210422040000 -0500" channel="Canal Azteca Uno">
     <title lang="es">Paid Programing</title>
   </programme>
-  <programme start="20210420040000 -0500" stop="20210420041500 -0500" channel="Canal Azteca Uno">
+  <programme start="20210422040000 -0500" stop="20210422041500 -0500" channel="Canal Azteca Uno">
     <title lang="es">Azteca Uno</title>
   </programme>
-  <programme start="20210420041500 -0500" stop="20210420050000 -0500" channel="Canal Azteca Uno">
+  <programme start="20210422041500 -0500" stop="20210422050000 -0500" channel="Canal Azteca Uno">
     <title lang="es">Paid Programing</title>
   </programme>
-  <programme start="20210420050000 -0500" stop="20210420053000 -0500" channel="Canal Azteca Uno">
+  <programme start="20210422050000 -0500" stop="20210422053000 -0500" channel="Canal Azteca Uno">
     <title lang="es">Que Cotorreo</title>
   </programme>
-  <programme start="20210420053000 -0500" stop="20210420061500 -0500" channel="Canal Azteca Uno">
+  <programme start="20210422053000 -0500" stop="20210422061500 -0500" channel="Canal Azteca Uno">
     <title lang="es">Infomerciales</title>
   </programme>
-  <programme start="20210420061500 -0500" stop="20210420070000 -0500" channel="Canal Azteca Uno">
+  <programme start="20210422061500 -0500" stop="20210422070000 -0500" channel="Canal Azteca Uno">
     <title lang="es">Primera Línea</title>
   </programme>
-  <programme start="20210420070000 -0500" stop="20210420080000 -0500" channel="Canal Azteca Uno">
+  <programme start="20210422070000 -0500" stop="20210422080000 -0500" channel="Canal Azteca Uno">
     <title lang="es">Hechos AM</title>
   </programme>
-  <programme start="20210420080000 -0500" stop="20210420090000 -0500" channel="Canal Azteca Uno">
+  <programme start="20210422080000 -0500" stop="20210422090000 -0500" channel="Canal Azteca Uno">
     <title lang="es">Hechos Aquí entre nos</title>
   </programme>
-  <programme start="20210420090000 -0500" stop="20210420110000 -0500" channel="Canal Azteca Uno">
+  <programme start="20210422090000 -0500" stop="20210422110000 -0500" channel="Canal Azteca Uno">
     <title lang="es">Venga la alegría En Vivo</title>
   </programme>
-  <programme start="20210420110000 -0500" stop="20210420130000 -0500" channel="Canal Azteca Uno">
+  <programme start="20210422110000 -0500" stop="20210422130000 -0500" channel="Canal Azteca Uno">
     <title lang="es">Venga la alegría En Vivo</title>
   </programme>
-  <programme start="20210420130000 -0500" stop="20210420140000 -0500" channel="Canal Azteca Uno">
+  <programme start="20210422130000 -0500" stop="20210422140000 -0500" channel="Canal Azteca Uno">
     <title lang="es">Venga la alegría En Vivo</title>
   </programme>
-  <programme start="20210420140000 -0500" stop="20210420150000 -0500" channel="Canal Azteca Uno">
+  <programme start="20210422140000 -0500" stop="20210422150000 -0500" channel="Canal Azteca Uno">
     <title lang="es">Hechos meridiano</title>
   </programme>
-  <programme start="20210420150000 -0500" stop="20210420163000 -0500" channel="Canal Azteca Uno">
+  <programme start="20210422150000 -0500" stop="20210422163000 -0500" channel="Canal Azteca Uno">
     <title lang="es">Ventaneando</title>
   </programme>
-  <programme start="20210420163000 -0500" stop="20210420173000 -0500" channel="Canal Azteca Uno">
+  <programme start="20210422163000 -0500" stop="20210422173000 -0500" channel="Canal Azteca Uno">
     <title lang="es">Mimí Contigo</title>
   </programme>
-  <programme start="20210420173000 -0500" stop="20210420193000 -0500" channel="Canal Azteca Uno">
+  <programme start="20210422173000 -0500" stop="20210422193000 -0500" channel="Canal Azteca Uno">
     <title lang="es">Al extremo</title>
   </programme>
-  <programme start="20210420193000 -0500" stop="20210420223000 -0500" channel="Canal Azteca Uno">
-    <title lang="es">La Voz Kids</title>
+  <programme start="20210422193000 -0500" stop="20210422223000 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Survivor</title>
   </programme>
-  <programme start="20210420223000 -0500" stop="20210420231500 -0500" channel="Canal Azteca Uno">
+  <programme start="20210422223000 -0500" stop="20210422231500 -0500" channel="Canal Azteca Uno">
     <title lang="es">Hechos de la noche</title>
   </programme>
-  <programme start="20210420231500 -0500" stop="20210420233000 -0500" channel="Canal Azteca Uno">
+  <programme start="20210422231500 -0500" stop="20210422233000 -0500" channel="Canal Azteca Uno">
     <title lang="es">Hechos CDMX</title>
   </programme>
-  <programme start="20210420233000 -0500" stop="20210420234500 -0500" channel="Canal Azteca Uno">
+  <programme start="20210422233000 -0500" stop="20210422234500 -0500" channel="Canal Azteca Uno">
     <title lang="es">Campañeando</title>
   </programme>
-  <programme start="20210420234500 -0500" stop="20210421001500 -0500" channel="Canal Azteca Uno">
+  <programme start="20210422234500 -0500" stop="20210423001500 -0500" channel="Canal Azteca Uno">
     <title lang="es">Los protagonistas</title>
   </programme>
-  <programme start="20210420020000 -0500" stop="20210420040000 -0500" channel="Canal 5 de México (XHGC)">
+  <programme start="20210422020000 -0500" stop="20210422040000 -0500" channel="Canal 5 de México (XHGC)">
     <title lang="es">Infomerciales</title>
   </programme>
-  <programme start="20210420040000 -0500" stop="20210420043000 -0500" channel="Canal 5 de México (XHGC)">
+  <programme start="20210422040000 -0500" stop="20210422043000 -0500" channel="Canal 5 de México (XHGC)">
     <title lang="es">Infomerciales</title>
   </programme>
-  <programme start="20210420043000 -0500" stop="20210420050000 -0500" channel="Canal 5 de México (XHGC)">
+  <programme start="20210422043000 -0500" stop="20210422050000 -0500" channel="Canal 5 de México (XHGC)">
     <title lang="es">Lo mejor de Aqui y Ahora</title>
   </programme>
-  <programme start="20210420050000 -0500" stop="20210420063000 -0500" channel="Canal 5 de México (XHGC)">
+  <programme start="20210422050000 -0500" stop="20210422063000 -0500" channel="Canal 5 de México (XHGC)">
     <title lang="es">Infomerciales</title>
   </programme>
-  <programme start="20210420063000 -0500" stop="20210420070000 -0500" channel="Canal 5 de México (XHGC)">
+  <programme start="20210422063000 -0500" stop="20210422070000 -0500" channel="Canal 5 de México (XHGC)">
     <title lang="es">Thomas y sus amigos</title>
   </programme>
-  <programme start="20210420070000 -0500" stop="20210420073000 -0500" channel="Canal 5 de México (XHGC)">
+  <programme start="20210422070000 -0500" stop="20210422073000 -0500" channel="Canal 5 de México (XHGC)">
     <title lang="es">Masha y el Oso</title>
   </programme>
-  <programme start="20210420073000 -0500" stop="20210420080000 -0500" channel="Canal 5 de México (XHGC)">
+  <programme start="20210422073000 -0500" stop="20210422080000 -0500" channel="Canal 5 de México (XHGC)">
     <title lang="es">Mya Go</title>
   </programme>
-  <programme start="20210420080000 -0500" stop="20210420083000 -0500" channel="Canal 5 de México (XHGC)">
+  <programme start="20210422080000 -0500" stop="20210422083000 -0500" channel="Canal 5 de México (XHGC)">
     <title lang="es">Las Pistas de Blue</title>
   </programme>
-  <programme start="20210420083000 -0500" stop="20210420090000 -0500" channel="Canal 5 de México (XHGC)">
+  <programme start="20210422083000 -0500" stop="20210422090000 -0500" channel="Canal 5 de México (XHGC)">
     <title lang="es">Rainbow Rangers</title>
   </programme>
-  <programme start="20210420090000 -0500" stop="20210420093000 -0500" channel="Canal 5 de México (XHGC)">
+  <programme start="20210422090000 -0500" stop="20210422093000 -0500" channel="Canal 5 de México (XHGC)">
     <title lang="es">Ricky Zoom</title>
   </programme>
-  <programme start="20210420093000 -0500" stop="20210420100000 -0500" channel="Canal 5 de México (XHGC)">
+  <programme start="20210422093000 -0500" stop="20210422100000 -0500" channel="Canal 5 de México (XHGC)">
     <title lang="es">PAW Patrol</title>
   </programme>
-  <programme start="20210420100000 -0500" stop="20210420110000 -0500" channel="Canal 5 de México (XHGC)">
+  <programme start="20210422100000 -0500" stop="20210422110000 -0500" channel="Canal 5 de México (XHGC)">
     <title lang="es">Turbo</title>
   </programme>
-  <programme start="20210420110000 -0500" stop="20210420120000 -0500" channel="Canal 5 de México (XHGC)">
+  <programme start="20210422110000 -0500" stop="20210422120000 -0500" channel="Canal 5 de México (XHGC)">
     <title lang="es">Viva el rey Julien</title>
   </programme>
-  <programme start="20210420120000 -0500" stop="20210420130000 -0500" channel="Canal 5 de México (XHGC)">
+  <programme start="20210422120000 -0500" stop="20210422130000 -0500" channel="Canal 5 de México (XHGC)">
     <title lang="es">The Loud House</title>
   </programme>
-  <programme start="20210420130000 -0500" stop="20210420140000 -0500" channel="Canal 5 de México (XHGC)">
+  <programme start="20210422130000 -0500" stop="20210422140000 -0500" channel="Canal 5 de México (XHGC)">
     <title lang="es">el chavo animado</title>
   </programme>
-  <programme start="20210420140000 -0500" stop="20210420150000 -0500" channel="Canal 5 de México (XHGC)">
+  <programme start="20210422140000 -0500" stop="20210422150000 -0500" channel="Canal 5 de México (XHGC)">
     <title lang="es">Las aventuras de Ladybug</title>
   </programme>
-  <programme start="20210420150000 -0500" stop="20210420160000 -0500" channel="Canal 5 de México (XHGC)">
+  <programme start="20210422150000 -0500" stop="20210422160000 -0500" channel="Canal 5 de México (XHGC)">
     <title lang="es">Full house</title>
   </programme>
-  <programme start="20210420160000 -0500" stop="20210420170000 -0500" channel="Canal 5 de México (XHGC)">
+  <programme start="20210422160000 -0500" stop="20210422170000 -0500" channel="Canal 5 de México (XHGC)">
     <title lang="es">Bob Esponja</title>
   </programme>
-  <programme start="20210420170000 -0500" stop="20210420183000 -0500" channel="Canal 5 de México (XHGC)">
+  <programme start="20210422170000 -0500" stop="20210422183000 -0500" channel="Canal 5 de México (XHGC)">
     <title lang="es">Drake y Josh</title>
   </programme>
-  <programme start="20210420183000 -0500" stop="20210420200000 -0500" channel="Canal 5 de México (XHGC)">
+  <programme start="20210422183000 -0500" stop="20210422200000 -0500" channel="Canal 5 de México (XHGC)">
     <title lang="es">Malcolm el de en medio</title>
   </programme>
-  <programme start="20210420200000 -0500" stop="20210420220000 -0500" channel="Canal 5 de México (XHGC)">
+  <programme start="20210422200000 -0500" stop="20210422220000 -0500" channel="Canal 5 de México (XHGC)">
     <title lang="es">Me caigo de risa</title>
   </programme>
-  <programme start="20210420220000 -0500" stop="20210420230000 -0500" channel="Canal 5 de México (XHGC)">
+  <programme start="20210422220000 -0500" stop="20210422230000 -0500" channel="Canal 5 de México (XHGC)">
     <title lang="es">Fear the Walking Dead</title>
   </programme>
-  <programme start="20210420230000 -0500" stop="20210421000000 -0500" channel="Canal 5 de México (XHGC)">
+  <programme start="20210422230000 -0500" stop="20210423000000 -0500" channel="Canal 5 de México (XHGC)">
     <title lang="es">La Reina del Sur</title>
   </programme>
-  <programme start="20210420010000 -0500" stop="20210420043000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW) ">
+  <programme start="20210422010000 -0500" stop="20210422043000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW) ">
     <title lang="es">Paid Programing</title>
   </programme>
-  <programme start="20210420043000 -0500" stop="20210420050000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW) ">
+  <programme start="20210422043000 -0500" stop="20210422050000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW) ">
     <title lang="es">Veredicto Final</title>
   </programme>
-  <programme start="20210420050000 -0500" stop="20210420053000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW) ">
+  <programme start="20210422050000 -0500" stop="20210422053000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW) ">
     <title lang="es">Infomerciales</title>
   </programme>
-  <programme start="20210420053000 -0500" stop="20210420060000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW) ">
+  <programme start="20210422053000 -0500" stop="20210422060000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW) ">
     <title lang="es">Farmacias de similares</title>
   </programme>
-  <programme start="20210420060000 -0500" stop="20210420063000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW) ">
+  <programme start="20210422060000 -0500" stop="20210422063000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW) ">
     <title lang="es">Las noticias En Vivo</title>
   </programme>
-  <programme start="20210420063000 -0500" stop="20210420080000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW) ">
+  <programme start="20210422063000 -0500" stop="20210422080000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW) ">
     <title lang="es">Despierta En Vivo</title>
   </programme>
-  <programme start="20210420080000 -0500" stop="20210420090000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW) ">
+  <programme start="20210422080000 -0500" stop="20210422090000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW) ">
     <title lang="es">Al Aire con Paola Rojas En Vivo</title>
   </programme>
-  <programme start="20210420090000 -0500" stop="20210420120000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW) ">
+  <programme start="20210422090000 -0500" stop="20210422120000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW) ">
     <title lang="es">Hoy En Vivo</title>
   </programme>
-  <programme start="20210420120000 -0500" stop="20210420133000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW) ">
-    <title lang="es">¡Cuéntamelo ya! En Vivo</title>
+  <programme start="20210422120000 -0500" stop="20210422133000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW) ">
+    <title lang="es">Cuéntamelo Ya! En Vivo</title>
   </programme>
-  <programme start="20210420133000 -0500" stop="20210420143000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW) ">
+  <programme start="20210422133000 -0500" stop="20210422143000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW) ">
     <title lang="es">Minuto para Ganar</title>
   </programme>
-  <programme start="20210420143000 -0500" stop="20210420153000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW) ">
+  <programme start="20210422143000 -0500" stop="20210422153000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW) ">
     <title lang="es">Corazón Indomable</title>
   </programme>
-  <programme start="20210420153000 -0500" stop="20210420163000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW) ">
+  <programme start="20210422153000 -0500" stop="20210422163000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW) ">
     <title lang="es">Quererlo Todo</title>
   </programme>
-  <programme start="20210420163000 -0500" stop="20210420173000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW) ">
+  <programme start="20210422163000 -0500" stop="20210422173000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW) ">
     <title lang="es">Mañana es para Siempre</title>
   </programme>
-  <programme start="20210420173000 -0500" stop="20210420183000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW) ">
+  <programme start="20210422173000 -0500" stop="20210422183000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW) ">
     <title lang="es">Como dice el dicho</title>
   </programme>
-  <programme start="20210420183000 -0500" stop="20210420193000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW) ">
+  <programme start="20210422183000 -0500" stop="20210422193000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW) ">
     <title lang="es">Fuego Ardiente</title>
   </programme>
-  <programme start="20210420193000 -0500" stop="20210420203000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW) ">
+  <programme start="20210422193000 -0500" stop="20210422203000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW) ">
     <title lang="es">La Rosa de Guadalupe</title>
   </programme>
-  <programme start="20210420203000 -0500" stop="20210420213000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW) ">
+  <programme start="20210422203000 -0500" stop="20210422213000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW) ">
     <title lang="es">¿Qué le pasa a mi familia</title>
   </programme>
-  <programme start="20210420213000 -0500" stop="20210420223000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW) ">
-    <title lang="es">¿Te acuerdas de mí</title>
+  <programme start="20210422213000 -0500" stop="20210422223000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW) ">
+    <title lang="es">Te acuerdas de mí</title>
   </programme>
-  <programme start="20210420223000 -0500" stop="20210420230000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW) ">
+  <programme start="20210422223000 -0500" stop="20210422230000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW) ">
     <title lang="es">En Punto Denise Maerker En Vivo</title>
   </programme>
-  <programme start="20210420230000 -0500" stop="20210420233000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW) ">
-    <title lang="es">40 y 20</title>
+  <programme start="20210422230000 -0500" stop="20210422233000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW) ">
+    <title lang="es">Mi Querida Herencia</title>
   </programme>
-  <programme start="20210420233000 -0500" stop="20210421000000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW) ">
+  <programme start="20210422233000 -0500" stop="20210423000000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW) ">
     <title lang="es">Contacto deportivo En Vivo</title>
   </programme>
-  <programme start="20210420003000 -0500" stop="20210420040000 -0500" channel="Canal Azteca 7  (México)">
+  <programme start="20210422003000 -0500" stop="20210422010000 -0500" channel="Canal Azteca 7  (México)">
+    <title lang="es">Farmacias Similares</title>
+  </programme>
+  <programme start="20210422010000 -0500" stop="20210422050000 -0500" channel="Canal Azteca 7  (México)">
     <title lang="es">Infomerciales</title>
   </programme>
-  <programme start="20210420040000 -0500" stop="20210420051500 -0500" channel="Canal Azteca 7  (México)">
+  <programme start="20210422050000 -0500" stop="20210422051500 -0500" channel="Canal Azteca 7  (México)">
     <title lang="es">Infomerciales</title>
   </programme>
-  <programme start="20210420051500 -0500" stop="20210420053000 -0500" channel="Canal Azteca 7  (México)">
+  <programme start="20210422051500 -0500" stop="20210422053000 -0500" channel="Canal Azteca 7  (México)">
     <title lang="es">Especial de R.T.C</title>
   </programme>
-  <programme start="20210420053000 -0500" stop="20210420063000 -0500" channel="Canal Azteca 7  (México)">
+  <programme start="20210422053000 -0500" stop="20210422063000 -0500" channel="Canal Azteca 7  (México)">
     <title lang="es">Infomerciales</title>
   </programme>
-  <programme start="20210420063000 -0500" stop="20210420070000 -0500" channel="Canal Azteca 7  (México)">
+  <programme start="20210422063000 -0500" stop="20210422070000 -0500" channel="Canal Azteca 7  (México)">
     <title lang="es">Bubu Dom</title>
   </programme>
-  <programme start="20210420070000 -0500" stop="20210420073000 -0500" channel="Canal Azteca 7  (México)">
+  <programme start="20210422070000 -0500" stop="20210422073000 -0500" channel="Canal Azteca 7  (México)">
     <title lang="es">Vera y el Reino Arcoíris</title>
   </programme>
-  <programme start="20210420073000 -0500" stop="20210420080000 -0500" channel="Canal Azteca 7  (México)">
+  <programme start="20210422073000 -0500" stop="20210422080000 -0500" channel="Canal Azteca 7  (México)">
     <title lang="es">Chuggington</title>
   </programme>
-  <programme start="20210420080000 -0500" stop="20210420083000 -0500" channel="Canal Azteca 7  (México)">
+  <programme start="20210422080000 -0500" stop="20210422083000 -0500" channel="Canal Azteca 7  (México)">
     <title lang="es">Rev &amp; Roll</title>
   </programme>
-  <programme start="20210420083000 -0500" stop="20210420090000 -0500" channel="Canal Azteca 7  (México)">
+  <programme start="20210422083000 -0500" stop="20210422090000 -0500" channel="Canal Azteca 7  (México)">
     <title lang="es">Molang</title>
   </programme>
-  <programme start="20210420090000 -0500" stop="20210420093000 -0500" channel="Canal Azteca 7  (México)">
+  <programme start="20210422090000 -0500" stop="20210422093000 -0500" channel="Canal Azteca 7  (México)">
     <title lang="es">Gigantosaurus</title>
   </programme>
-  <programme start="20210420093000 -0500" stop="20210420103000 -0500" channel="Canal Azteca 7  (México)">
-    <title lang="es">My Little Pony La magia</title>
+  <programme start="20210422093000 -0500" stop="20210422103000 -0500" channel="Canal Azteca 7  (México)">
+    <title lang="es">My Little Pony Pony Life</title>
   </programme>
-  <programme start="20210420103000 -0500" stop="20210420110000 -0500" channel="Canal Azteca 7  (México)">
+  <programme start="20210422103000 -0500" stop="20210422110000 -0500" channel="Canal Azteca 7  (México)">
     <title lang="es">Transformers Rescue Bots</title>
   </programme>
-  <programme start="20210420110000 -0500" stop="20210420113000 -0500" channel="Canal Azteca 7  (México)">
+  <programme start="20210422110000 -0500" stop="20210422113000 -0500" channel="Canal Azteca 7  (México)">
     <title lang="es">Power rangers ninja steel</title>
   </programme>
-  <programme start="20210420113000 -0500" stop="20210420123000 -0500" channel="Canal Azteca 7  (México)">
+  <programme start="20210422113000 -0500" stop="20210422123000 -0500" channel="Canal Azteca 7  (México)">
     <title lang="es">Los supersónicos</title>
   </programme>
-  <programme start="20210420123000 -0500" stop="20210420133000 -0500" channel="Canal Azteca 7  (México)">
-    <title lang="es">Los Picapiedras</title>
+  <programme start="20210422123000 -0500" stop="20210422133000 -0500" channel="Canal Azteca 7  (México)">
+    <title lang="es">Los Picapiedra</title>
   </programme>
-  <programme start="20210420133000 -0500" stop="20210420144500 -0500" channel="Canal Azteca 7  (México)">
+  <programme start="20210422133000 -0500" stop="20210422144500 -0500" channel="Canal Azteca 7  (México)">
     <title lang="es">Hotel Transylvania La serie</title>
   </programme>
-  <programme start="20210420144500 -0500" stop="20210420153000 -0500" channel="Canal Azteca 7  (México)">
+  <programme start="20210422144500 -0500" stop="20210422153000 -0500" channel="Canal Azteca 7  (México)">
     <title lang="es">Sabrina La Bruja Adolescente</title>
   </programme>
-  <programme start="20210420153000 -0500" stop="20210420163000 -0500" channel="Canal Azteca 7  (México)">
+  <programme start="20210422153000 -0500" stop="20210422163000 -0500" channel="Canal Azteca 7  (México)">
     <title lang="es">El príncipe del rap</title>
   </programme>
-  <programme start="20210420163000 -0500" stop="20210420173000 -0500" channel="Canal Azteca 7  (México)">
+  <programme start="20210422163000 -0500" stop="20210422173000 -0500" channel="Canal Azteca 7  (México)">
     <title lang="es">Los Simpson</title>
   </programme>
-  <programme start="20210420173000 -0500" stop="20210420193000 -0500" channel="Canal Azteca 7  (México)">
+  <programme start="20210422173000 -0500" stop="20210422193000 -0500" channel="Canal Azteca 7  (México)">
     <title lang="es">Lo que la gente cuenta</title>
   </programme>
-  <programme start="20210420193000 -0500" stop="20210420213000 -0500" channel="Canal Azteca 7  (México)">
+  <programme start="20210422193000 -0500" stop="20210422213000 -0500" channel="Canal Azteca 7  (México)">
     <title lang="es">Almas perdidas</title>
   </programme>
-  <programme start="20210420213000 -0500" stop="20210420233000 -0500" channel="Canal Azteca 7  (México)">
+  <programme start="20210422213000 -0500" stop="20210422233000 -0500" channel="Canal Azteca 7  (México)">
     <title lang="es">Hawaii 5-0</title>
   </programme>
-  <programme start="20210420233000 -0500" stop="20210421003000 -0500" channel="Canal Azteca 7  (México)">
-    <title lang="es">Bones</title>
-  </programme>
-  <programme start="20210420010000 -0500" stop="20210420020000 -0500" channel="Canal ESPN (México)">
+  <programme start="20210422010000 -0500" stop="20210422020000 -0500" channel="Canal ESPN (México)">
     <title lang="es">SportsCenter</title>
   </programme>
-  <programme start="20210420020000 -0500" stop="20210420030000 -0500" channel="Canal ESPN (México)">
+  <programme start="20210422020000 -0500" stop="20210422030000 -0500" channel="Canal ESPN (México)">
     <title lang="es">Futbol Picante</title>
   </programme>
-  <programme start="20210420030000 -0500" stop="20210420050000 -0500" channel="Canal ESPN (México)">
-    <title lang="es">Chelsea vs. Manchester City</title>
+  <programme start="20210422030000 -0500" stop="20210422050000 -0500" channel="Canal ESPN (México)">
+    <title lang="es">Spezia vs. Inter</title>
   </programme>
-  <programme start="20210420050000 -0500" stop="20210420060000 -0500" channel="Canal ESPN (México)">
+  <programme start="20210422050000 -0500" stop="20210422060000 -0500" channel="Canal ESPN (México)">
     <title lang="es">ESPN FC</title>
   </programme>
-  <programme start="20210420060000 -0500" stop="20210420070000 -0500" channel="Canal ESPN (México)">
+  <programme start="20210422060000 -0500" stop="20210422070000 -0500" channel="Canal ESPN (México)">
     <title lang="es">Futbol Picante</title>
   </programme>
-  <programme start="20210420070000 -0500" stop="20210420073000 -0500" channel="Canal ESPN (México)">
-    <title lang="es">ESPN Run</title>
+  <programme start="20210422070000 -0500" stop="20210422080000 -0500" channel="Canal ESPN (México)">
+    <title lang="es">Futbol Picante</title>
   </programme>
-  <programme start="20210420073000 -0500" stop="20210420080000 -0500" channel="Canal ESPN (México)">
-    <title lang="es">ESPN Run</title>
-  </programme>
-  <programme start="20210420080000 -0500" stop="20210420090000 -0500" channel="Canal ESPN (México)">
+  <programme start="20210422080000 -0500" stop="20210422090000 -0500" channel="Canal ESPN (México)">
     <title lang="es">SportsCenter</title>
   </programme>
-  <programme start="20210420090000 -0500" stop="20210420100000 -0500" channel="Canal ESPN (México)">
+  <programme start="20210422090000 -0500" stop="20210422100000 -0500" channel="Canal ESPN (México)">
     <title lang="es">SportsCenter</title>
   </programme>
-  <programme start="20210420100000 -0500" stop="20210420110000 -0500" channel="Canal ESPN (México)">
+  <programme start="20210422100000 -0500" stop="20210422110000 -0500" channel="Canal ESPN (México)">
     <title lang="es">ESPN FC</title>
   </programme>
-  <programme start="20210420110000 -0500" stop="20210420130000 -0500" channel="Canal ESPN (México)">
+  <programme start="20210422110000 -0500" stop="20210422112000 -0500" channel="Canal ESPN (México)">
+    <title lang="es">ESPN Run</title>
+  </programme>
+  <programme start="20210422112000 -0500" stop="20210422133000 -0500" channel="Canal ESPN (México)">
+    <title lang="es">Roma vs. Atalanta</title>
+  </programme>
+  <programme start="20210422133000 -0500" stop="20210422154500 -0500" channel="Canal ESPN (México)">
+    <title lang="es">Napoli vs. Lazio</title>
+  </programme>
+  <programme start="20210422154500 -0500" stop="20210422160000 -0500" channel="Canal ESPN (México)">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20210422160000 -0500" stop="20210422170000 -0500" channel="Canal ESPN (México)">
+    <title lang="es">ESPN FC</title>
+  </programme>
+  <programme start="20210422170000 -0500" stop="20210422180000 -0500" channel="Canal ESPN (México)">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20210422180000 -0500" stop="20210422190000 -0500" channel="Canal ESPN (México)">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20210422190000 -0500" stop="20210422200000 -0500" channel="Canal ESPN (México)">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20210422200000 -0500" stop="20210422210000 -0500" channel="Canal ESPN (México)">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20210422210000 -0500" stop="20210423000000 -0500" channel="Canal ESPN (México)">
+    <title lang="es">Padres vs. Dodgers</title>
+  </programme>
+  <programme start="20210422010000 -0500" stop="20210422020000 -0500" channel="Canal ESPN 2 México">
+    <title lang="es">Futbol Picante</title>
+  </programme>
+  <programme start="20210422020000 -0500" stop="20210422030000 -0500" channel="Canal ESPN 2 México">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20210422030000 -0500" stop="20210422040000 -0500" channel="Canal ESPN 2 México">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20210422040000 -0500" stop="20210422073000 -0500" channel="Canal ESPN 2 México">
+    <title lang="es">Barcelona Open BancSabadell</title>
+  </programme>
+  <programme start="20210422073000 -0500" stop="20210422080000 -0500" channel="Canal ESPN 2 México">
+    <title lang="es">A.T.P. Tour Uncovered</title>
+  </programme>
+  <programme start="20210422080000 -0500" stop="20210422093000 -0500" channel="Canal ESPN 2 México">
+    <title lang="es">Extreme E</title>
+  </programme>
+  <programme start="20210422093000 -0500" stop="20210422114000 -0500" channel="Canal ESPN 2 México">
     <title lang="es">Central Córdoba vs. River</title>
   </programme>
-  <programme start="20210420130000 -0500" stop="20210420133000 -0500" channel="Canal ESPN (México)">
+  <programme start="20210422114000 -0500" stop="20210422134000 -0500" channel="Canal ESPN 2 México">
+    <title lang="es">Ajax vs. Utrecht</title>
+  </programme>
+  <programme start="20210422134000 -0500" stop="20210422150000 -0500" channel="Canal ESPN 2 México">
     <title lang="es">Futbol Picante</title>
   </programme>
-  <programme start="20210420133000 -0500" stop="20210420154500 -0500" channel="Canal ESPN (México)">
-    <title lang="es">Hellas Verona vs. Fiorentina</title>
-  </programme>
-  <programme start="20210420154500 -0500" stop="20210420160000 -0500" channel="Canal ESPN (México)">
+  <programme start="20210422150000 -0500" stop="20210422160000 -0500" channel="Canal ESPN 2 México">
     <title lang="es">SportsCenter</title>
   </programme>
-  <programme start="20210420160000 -0500" stop="20210420170000 -0500" channel="Canal ESPN (México)">
-    <title lang="es">ESPN FC</title>
+  <programme start="20210422160000 -0500" stop="20210422180000 -0500" channel="Canal ESPN 2 México">
+    <title lang="es">Inter Miami CF vs. LA Galaxy</title>
   </programme>
-  <programme start="20210420170000 -0500" stop="20210420180000 -0500" channel="Canal ESPN (México)">
-    <title lang="es">SportsCenter</title>
+  <programme start="20210422180000 -0500" stop="20210422200000 -0500" channel="Canal ESPN 2 México">
+    <title lang="es">LAFC vs. Austin FC</title>
   </programme>
-  <programme start="20210420180000 -0500" stop="20210420183000 -0500" channel="Canal ESPN (México)">
-    <title lang="es">SportsCenter</title>
+  <programme start="20210422200000 -0500" stop="20210422203000 -0500" channel="Canal ESPN 2 México">
+    <title lang="es">Lo mejor de MotoGP</title>
   </programme>
-  <programme start="20210420183000 -0500" stop="20210420213000 -0500" channel="Canal ESPN (México)">
-    <title lang="es">Mets vs. Cubs</title>
+  <programme start="20210422203000 -0500" stop="20210422205500 -0500" channel="Canal ESPN 2 México">
+    <title lang="es">Lo mejor de MotoGP</title>
   </programme>
-  <programme start="20210420213000 -0500" stop="20210420220000 -0500" channel="Canal ESPN (México)">
-    <title lang="es">SportsCenter</title>
+  <programme start="20210422205500 -0500" stop="20210422230000 -0500" channel="Canal ESPN 2 México">
+    <title lang="es">Tapatío CD vs. Tlaxcala FC</title>
   </programme>
-  <programme start="20210420220000 -0500" stop="20210420230000 -0500" channel="Canal ESPN (México)">
-    <title lang="es">SportsCenter</title>
-  </programme>
-  <programme start="20210420230000 -0500" stop="20210421000000 -0500" channel="Canal ESPN (México)">
+  <programme start="20210422230000 -0500" stop="20210423000000 -0500" channel="Canal ESPN 2 México">
     <title lang="es">Futbol Picante</title>
   </programme>
-  <programme start="20210420010000 -0500" stop="20210420030000 -0500" channel="Canal ESPN 2 México">
-    <title lang="es">Milan vs. Genoa</title>
+  <programme start="20210422020000 -0500" stop="20210422040000 -0500" channel="Canal ESPN 3 (México)">
+    <title lang="es">Tepatitlán FC vs. Dorados</title>
   </programme>
-  <programme start="20210420030000 -0500" stop="20210420040000 -0500" channel="Canal ESPN 2 México">
-    <title lang="es">SportsCenter</title>
+  <programme start="20210422040000 -0500" stop="20210422060000 -0500" channel="Canal ESPN 3 (México)">
+    <title lang="es">Milan vs. Sassuolo</title>
   </programme>
-  <programme start="20210420040000 -0500" stop="20210420060000 -0500" channel="Canal ESPN 2 México">
-    <title lang="es">Barcelona Open BancSabadell</title>
+  <programme start="20210422060000 -0500" stop="20210422063000 -0500" channel="Canal ESPN 3 (México)">
+    <title lang="es">Lo mejor de MotoGP</title>
   </programme>
-  <programme start="20210420060000 -0500" stop="20210420080000 -0500" channel="Canal ESPN 2 México">
-    <title lang="es">Barcelona Open BancSabadell</title>
-  </programme>
-  <programme start="20210420080000 -0500" stop="20210420090000 -0500" channel="Canal ESPN 2 México">
-    <title lang="es">Barcelona Open BancSabadell</title>
-  </programme>
-  <programme start="20210420090000 -0500" stop="20210420093000 -0500" channel="Canal ESPN 2 México">
+  <programme start="20210422063000 -0500" stop="20210422070000 -0500" channel="Canal ESPN 3 (México)">
     <title lang="es">ESPN Run</title>
   </programme>
-  <programme start="20210420093000 -0500" stop="20210420111500 -0500" channel="Canal ESPN 2 México">
-    <title lang="es">Atalanta vs. Juventus</title>
-  </programme>
-  <programme start="20210420111500 -0500" stop="20210420130000 -0500" channel="Canal ESPN 2 México">
-    <title lang="es">Leicester City vs. Southampton</title>
-  </programme>
-  <programme start="20210420130000 -0500" stop="20210420150000 -0500" channel="Canal ESPN 2 México">
-    <title lang="es">Futbol Picante</title>
-  </programme>
-  <programme start="20210420150000 -0500" stop="20210420160000 -0500" channel="Canal ESPN 2 México">
-    <title lang="es">SportsCenter</title>
-  </programme>
-  <programme start="20210420160000 -0500" stop="20210420180000 -0500" channel="Canal ESPN 2 México">
-    <title lang="es">Boca Juniors vs. A. Tucumán</title>
-  </programme>
-  <programme start="20210420180000 -0500" stop="20210420183000 -0500" channel="Canal ESPN 2 México">
-    <title lang="es">Galácticos</title>
-  </programme>
-  <programme start="20210420183000 -0500" stop="20210420185500 -0500" channel="Canal ESPN 2 México">
-    <title lang="es">Galácticos</title>
-  </programme>
-  <programme start="20210420185500 -0500" stop="20210420210000 -0500" channel="Canal ESPN 2 México">
-    <title lang="es">Mineros vs. Alebrijes</title>
-  </programme>
-  <programme start="20210420210000 -0500" stop="20210420231500 -0500" channel="Canal ESPN 2 México">
-    <title lang="es">Cimarrones de Sonora vs. Vena</title>
-  </programme>
-  <programme start="20210420231500 -0500" stop="20210421000000 -0500" channel="Canal ESPN 2 México">
-    <title lang="es">SportsCenter</title>
-  </programme>
-  <programme start="20210420020000 -0500" stop="20210420043000 -0500" channel="Canal ESPN 3 (México)">
-    <title lang="es">Warriors vs. 76ers</title>
-  </programme>
-  <programme start="20210420043000 -0500" stop="20210420070000 -0500" channel="Canal ESPN 3 (México)">
-    <title lang="es">Jazz vs. Lakers</title>
-  </programme>
-  <programme start="20210420070000 -0500" stop="20210420090000 -0500" channel="Canal ESPN 3 (México)">
+  <programme start="20210422070000 -0500" stop="20210422090000 -0500" channel="Canal ESPN 3 (México)">
     <title lang="es">Get Up</title>
   </programme>
-  <programme start="20210420090000 -0500" stop="20210420110000 -0500" channel="Canal ESPN 3 (México)">
-    <title lang="es">First Take</title>
+  <programme start="20210422090000 -0500" stop="20210422123000 -0500" channel="Canal ESPN 3 (México)">
+    <title lang="es">Barcelona Open BancSabadell</title>
   </programme>
-  <programme start="20210420110000 -0500" stop="20210420120000 -0500" channel="Canal ESPN 3 (México)">
+  <programme start="20210422123000 -0500" stop="20210422130000 -0500" channel="Canal ESPN 3 (México)">
     <title lang="es">SportsCenter</title>
   </programme>
-  <programme start="20210420120000 -0500" stop="20210420130000 -0500" channel="Canal ESPN 3 (México)">
+  <programme start="20210422130000 -0500" stop="20210422150000 -0500" channel="Canal ESPN 3 (México)">
+    <title lang="es">Futbol Picante</title>
+  </programme>
+  <programme start="20210422150000 -0500" stop="20210422153000 -0500" channel="Canal ESPN 3 (México)">
+    <title lang="es">Major League Soccer Highlights</title>
+  </programme>
+  <programme start="20210422153000 -0500" stop="20210422180000 -0500" channel="Canal ESPN 3 (México)">
+    <title lang="es">Florida vs. Wisconsin</title>
+  </programme>
+  <programme start="20210422180000 -0500" stop="20210422200000 -0500" channel="Canal ESPN 3 (México)">
+    <title lang="es">NCAA Women's Volleyball</title>
+  </programme>
+  <programme start="20210422200000 -0500" stop="20210422223000 -0500" channel="Canal ESPN 3 (México)">
+    <title lang="es">Mrdjenovich vs. Erika Cruz</title>
+  </programme>
+  <programme start="20210422223000 -0500" stop="20210422230000 -0500" channel="Canal ESPN 3 (México)">
     <title lang="es">SportsCenter</title>
   </programme>
-  <programme start="20210420130000 -0500" stop="20210420140000 -0500" channel="Canal ESPN 3 (México)">
-    <title lang="es">PGA Tour Highlights</title>
+  <programme start="20210422230000 -0500" stop="20210423010000 -0500" channel="Canal ESPN 3 (México)">
+    <title lang="es">Ajax vs. Utrecht</title>
   </programme>
-  <programme start="20210420140000 -0500" stop="20210420160000 -0500" channel="Canal ESPN 3 (México)">
-    <title lang="es">STVV vs. Anderlecht</title>
+  <programme start="20210422010000 -0500" stop="20210422030000 -0500" channel="Canal Fox Sports (México)">
+    <title lang="es">Monterrey vs. Guadalajara</title>
   </programme>
-  <programme start="20210420160000 -0500" stop="20210420180000 -0500" channel="Canal ESPN 3 (México)">
-    <title lang="es">Leicester City vs. Southampton</title>
-  </programme>
-  <programme start="20210420180000 -0500" stop="20210420200000 -0500" channel="Canal ESPN 3 (México)">
-    <title lang="es">Hellas Verona vs. Fiorentina</title>
-  </programme>
-  <programme start="20210420200000 -0500" stop="20210420220000 -0500" channel="Canal ESPN 3 (México)">
-    <title lang="es">Harrison vs. Perrella</title>
-  </programme>
-  <programme start="20210420220000 -0500" stop="20210420230000 -0500" channel="Canal ESPN 3 (México)">
-    <title lang="es">Italian Serie A Highlights</title>
-  </programme>
-  <programme start="20210420230000 -0500" stop="20210421020000 -0500" channel="Canal ESPN 3 (México)">
-    <title lang="es">Wolfsburg vs. Bayern Munich</title>
-  </programme>
-  <programme start="20210420010000 -0500" stop="20210420030000 -0500" channel="Canal Fox Sports (México)">
-    <title lang="es">León vs. FC Juárez</title>
-  </programme>
-  <programme start="20210420030000 -0500" stop="20210420040000 -0500" channel="Canal Fox Sports (México)">
+  <programme start="20210422030000 -0500" stop="20210422040000 -0500" channel="Canal Fox Sports (México)">
     <title lang="es">La última palabra</title>
   </programme>
-  <programme start="20210420040000 -0500" stop="20210420050000 -0500" channel="Canal Fox Sports (México)">
+  <programme start="20210422040000 -0500" stop="20210422050000 -0500" channel="Canal Fox Sports (México)">
     <title lang="es">Central Fox</title>
   </programme>
-  <programme start="20210420050000 -0500" stop="20210420060000 -0500" channel="Canal Fox Sports (México)">
+  <programme start="20210422050000 -0500" stop="20210422060000 -0500" channel="Canal Fox Sports (México)">
     <title lang="es">La última palabra</title>
   </programme>
-  <programme start="20210420060000 -0500" stop="20210420070000 -0500" channel="Canal Fox Sports (México)">
+  <programme start="20210422060000 -0500" stop="20210422070000 -0500" channel="Canal Fox Sports (México)">
     <title lang="es">Central Fox</title>
   </programme>
-  <programme start="20210420070000 -0500" stop="20210420073000 -0500" channel="Canal Fox Sports (México)">
+  <programme start="20210422070000 -0500" stop="20210422073000 -0500" channel="Canal Fox Sports (México)">
     <title lang="es">Fox Fit</title>
   </programme>
-  <programme start="20210420073000 -0500" stop="20210420080000 -0500" channel="Canal Fox Sports (México)">
+  <programme start="20210422073000 -0500" stop="20210422080000 -0500" channel="Canal Fox Sports (México)">
     <title lang="es">Fox Fit</title>
   </programme>
-  <programme start="20210420080000 -0500" stop="20210420090000 -0500" channel="Canal Fox Sports (México)">
+  <programme start="20210422080000 -0500" stop="20210422090000 -0500" channel="Canal Fox Sports (México)">
     <title lang="es">Central Fox</title>
   </programme>
-  <programme start="20210420090000 -0500" stop="20210420100000 -0500" channel="Canal Fox Sports (México)">
+  <programme start="20210422090000 -0500" stop="20210422100000 -0500" channel="Canal Fox Sports (México)">
     <title lang="es">Agenda Fox Sports</title>
   </programme>
-  <programme start="20210420100000 -0500" stop="20210420110000 -0500" channel="Canal Fox Sports (México)">
+  <programme start="20210422100000 -0500" stop="20210422110000 -0500" channel="Canal Fox Sports (México)">
     <title lang="es">La última palabra</title>
   </programme>
-  <programme start="20210420110000 -0500" stop="20210420120000 -0500" channel="Canal Fox Sports (México)">
+  <programme start="20210422110000 -0500" stop="20210422120000 -0500" channel="Canal Fox Sports (México)">
     <title lang="es">Agenda Fox Sports</title>
   </programme>
-  <programme start="20210420120000 -0500" stop="20210420140000 -0500" channel="Canal Fox Sports (México)">
-    <title lang="es">León vs. FC Juárez</title>
-  </programme>
-  <programme start="20210420140000 -0500" stop="20210420150000 -0500" channel="Canal Fox Sports (México)">
-    <title lang="es">WWE NXT</title>
-  </programme>
-  <programme start="20210420150000 -0500" stop="20210420160000 -0500" channel="Canal Fox Sports (México)">
-    <title lang="es">Lo mejor de Fox Sports</title>
-  </programme>
-  <programme start="20210420160000 -0500" stop="20210420170000 -0500" channel="Canal Fox Sports (México)">
-    <title lang="es">Fox Sports Radio</title>
-  </programme>
-  <programme start="20210420170000 -0500" stop="20210420180000 -0500" channel="Canal Fox Sports (México)">
-    <title lang="es">UFC Countdown</title>
-  </programme>
-  <programme start="20210420180000 -0500" stop="20210420190000 -0500" channel="Canal Fox Sports (México)">
-    <title lang="es">UFC Unleashed</title>
-  </programme>
-  <programme start="20210420190000 -0500" stop="20210420220000 -0500" channel="Canal Fox Sports (México)">
-    <title lang="es">Premier Boxing Champions En Vivo</title>
-  </programme>
-  <programme start="20210420220000 -0500" stop="20210420230000 -0500" channel="Canal Fox Sports (México)">
-    <title lang="es">Central Fox</title>
-  </programme>
-  <programme start="20210420230000 -0500" stop="20210421000000 -0500" channel="Canal Fox Sports (México)">
-    <title lang="es">La última palabra</title>
-  </programme>
-  <programme start="20210420030000 -0500" stop="20210420040000 -0500" channel="Canal Fox Sports 2 (México)">
-    <title lang="es">Central Fox</title>
-  </programme>
-  <programme start="20210420040000 -0500" stop="20210420050000 -0500" channel="Canal Fox Sports 2 (México)">
-    <title lang="es">NET Nunca es tarde</title>
-  </programme>
-  <programme start="20210420050000 -0500" stop="20210420070000 -0500" channel="Canal Fox Sports 2 (México)">
-    <title lang="es">León vs. FC Juárez</title>
-  </programme>
-  <programme start="20210420070000 -0500" stop="20210420080000 -0500" channel="Canal Fox Sports 2 (México)">
-    <title lang="es">Lo mejor de Fox Sports</title>
-  </programme>
-  <programme start="20210420080000 -0500" stop="20210420083000 -0500" channel="Canal Fox Sports 2 (México)">
-    <title lang="es">Fox Fit</title>
-  </programme>
-  <programme start="20210420083000 -0500" stop="20210420090000 -0500" channel="Canal Fox Sports 2 (México)">
-    <title lang="es">Fox Fit</title>
-  </programme>
-  <programme start="20210420090000 -0500" stop="20210420110000 -0500" channel="Canal Fox Sports 2 (México)">
+  <programme start="20210422120000 -0500" stop="20210422140000 -0500" channel="Canal Fox Sports (México)">
     <title lang="es">Rayadas vs. América</title>
   </programme>
-  <programme start="20210420110000 -0500" stop="20210420140000 -0500" channel="Canal Fox Sports 2 (México)">
-    <title lang="es">UFC fight night</title>
+  <programme start="20210422140000 -0500" stop="20210422150000 -0500" channel="Canal Fox Sports (México)">
+    <title lang="es">WWE Main Event</title>
   </programme>
-  <programme start="20210420140000 -0500" stop="20210420150000 -0500" channel="Canal Fox Sports 2 (México)">
+  <programme start="20210422150000 -0500" stop="20210422160000 -0500" channel="Canal Fox Sports (México)">
+    <title lang="es">Lo mejor de Fox Sports</title>
+  </programme>
+  <programme start="20210422160000 -0500" stop="20210422170000 -0500" channel="Canal Fox Sports (México)">
+    <title lang="es">Fox Sports Radio</title>
+  </programme>
+  <programme start="20210422170000 -0500" stop="20210422180000 -0500" channel="Canal Fox Sports (México)">
     <title lang="es">UFC Countdown</title>
   </programme>
-  <programme start="20210420150000 -0500" stop="20210420160000 -0500" channel="Canal Fox Sports 2 (México)">
-    <title lang="es">UFC Main Event</title>
+  <programme start="20210422180000 -0500" stop="20210422200000 -0500" channel="Canal Fox Sports (México)">
+    <title lang="es">Cruz Azul vs. Arcahaie FC</title>
   </programme>
-  <programme start="20210420160000 -0500" stop="20210420165500 -0500" channel="Canal Fox Sports 2 (México)">
-    <title lang="es">UFC Unleashed</title>
+  <programme start="20210422200000 -0500" stop="20210422220000 -0500" channel="Canal Fox Sports (México)">
+    <title lang="es">Real Madrid vs. Liverpool</title>
   </programme>
-  <programme start="20210420165500 -0500" stop="20210420200000 -0500" channel="Canal Fox Sports 2 (México)">
-    <title lang="es">Fútbol Liga de Expansión</title>
+  <programme start="20210422220000 -0500" stop="20210422230000 -0500" channel="Canal Fox Sports (México)">
+    <title lang="es">Central Fox</title>
   </programme>
-  <programme start="20210420200000 -0500" stop="20210420230000 -0500" channel="Canal Fox Sports 2 (México)">
-    <title lang="es">Fútbol Liga de Expansión</title>
-  </programme>
-  <programme start="20210420230000 -0500" stop="20210421000000 -0500" channel="Canal Fox Sports 2 (México)">
+  <programme start="20210422230000 -0500" stop="20210423000000 -0500" channel="Canal Fox Sports (México)">
     <title lang="es">La última palabra</title>
   </programme>
-  <programme start="20210420010000 -0500" stop="20210420040000 -0500" channel="Canal Fox Sports 3 (México)">
-    <title lang="es">WWE Raw</title>
+  <programme start="20210422030000 -0500" stop="20210422040000 -0500" channel="Canal Fox Sports 2 (México)">
+    <title lang="es">Central Fox</title>
   </programme>
-  <programme start="20210420040000 -0500" stop="20210420063000 -0500" channel="Canal Fox Sports 3 (México)">
-    <title lang="es">Nascar Camping World Truck</title>
+  <programme start="20210422040000 -0500" stop="20210422050000 -0500" channel="Canal Fox Sports 2 (México)">
+    <title lang="es">Lo mejor de Fox Sports</title>
   </programme>
-  <programme start="20210420063000 -0500" stop="20210420073000 -0500" channel="Canal Fox Sports 3 (México)">
-    <title lang="es">Lo mejor del 2020 WEC</title>
+  <programme start="20210422050000 -0500" stop="20210422070000 -0500" channel="Canal Fox Sports 2 (México)">
+    <title lang="es">Borussia Dortmund vs. Unión Ber</title>
   </programme>
-  <programme start="20210420073000 -0500" stop="20210420080000 -0500" channel="Canal Fox Sports 3 (México)">
-    <title lang="es">Rally on board</title>
+  <programme start="20210422070000 -0500" stop="20210422080000 -0500" channel="Canal Fox Sports 2 (México)">
+    <title lang="es">Lo mejor de Fox Sports</title>
   </programme>
-  <programme start="20210420080000 -0500" stop="20210420100000 -0500" channel="Canal Fox Sports 3 (México)">
-    <title lang="es">Fórmula 1 2021 GP Italia</title>
+  <programme start="20210422080000 -0500" stop="20210422083000 -0500" channel="Canal Fox Sports 2 (México)">
+    <title lang="es">Fox Fit</title>
   </programme>
-  <programme start="20210420100000 -0500" stop="20210420110000 -0500" channel="Canal Fox Sports 3 (México)">
-    <title lang="es">Lo mejor del 2020 Fórmula 3</title>
+  <programme start="20210422083000 -0500" stop="20210422090000 -0500" channel="Canal Fox Sports 2 (México)">
+    <title lang="es">Fox Fit</title>
   </programme>
-  <programme start="20210420110000 -0500" stop="20210420120000 -0500" channel="Canal Fox Sports 3 (México)">
-    <title lang="es">Lo mejor del 2020 Motul FIM</title>
+  <programme start="20210422090000 -0500" stop="20210422110000 -0500" channel="Canal Fox Sports 2 (México)">
+    <title lang="es">Monterrey vs. Guadalajara En Vivo</title>
   </programme>
-  <programme start="20210420120000 -0500" stop="20210420130000 -0500" channel="Canal Fox Sports 3 (México)">
-    <title lang="es">Lo mejor del 2020 WEC</title>
+  <programme start="20210422110000 -0500" stop="20210422120000 -0500" channel="Canal Fox Sports 2 (México)">
+    <title lang="es">UFC Countdown</title>
   </programme>
-  <programme start="20210420130000 -0500" stop="20210420163000 -0500" channel="Canal Fox Sports 3 (México)">
-    <title lang="es">Nascar Cup Series 2021 Richmon</title>
+  <programme start="20210422120000 -0500" stop="20210422123000 -0500" channel="Canal Fox Sports 2 (México)">
+    <title lang="es">UFC Main Event</title>
   </programme>
-  <programme start="20210420163000 -0500" stop="20210420170000 -0500" channel="Canal Fox Sports 3 (México)">
-    <title lang="es">Rally on board</title>
+  <programme start="20210422123000 -0500" stop="20210422130000 -0500" channel="Canal Fox Sports 2 (México)">
+    <title lang="es">UFC Main Event</title>
   </programme>
-  <programme start="20210420170000 -0500" stop="20210420180000 -0500" channel="Canal Fox Sports 3 (México)">
-    <title lang="es">Lo mejor del 2020 WTCR</title>
+  <programme start="20210422130000 -0500" stop="20210422140000 -0500" channel="Canal Fox Sports 2 (México)">
+    <title lang="es">UFC Unleashed</title>
   </programme>
-  <programme start="20210420180000 -0500" stop="20210420190000 -0500" channel="Canal Fox Sports 3 (México)">
+  <programme start="20210422140000 -0500" stop="20210422160000 -0500" channel="Canal Fox Sports 2 (México)">
+    <title lang="es">Porto vs. Chelsea</title>
+  </programme>
+  <programme start="20210422160000 -0500" stop="20210422170000 -0500" channel="Canal Fox Sports 2 (México)">
+    <title lang="es">UFC Unleashed</title>
+  </programme>
+  <programme start="20210422170000 -0500" stop="20210422180000 -0500" channel="Canal Fox Sports 2 (México)">
+    <title lang="es">WWE Main Event</title>
+  </programme>
+  <programme start="20210422180000 -0500" stop="20210422200000 -0500" channel="Canal Fox Sports 2 (México)">
+    <title lang="es">Monterrey vs. Guadalajara</title>
+  </programme>
+  <programme start="20210422200000 -0500" stop="20210422205500 -0500" channel="Canal Fox Sports 2 (México)">
+    <title lang="es">Fox gol México</title>
+  </programme>
+  <programme start="20210422205500 -0500" stop="20210422230000 -0500" channel="Canal Fox Sports 2 (México)">
+    <title lang="es">Tapatío vs. Tlaxcala En Vivo</title>
+  </programme>
+  <programme start="20210422230000 -0500" stop="20210423000000 -0500" channel="Canal Fox Sports 2 (México)">
+    <title lang="es">La última palabra</title>
+  </programme>
+  <programme start="20210422030000 -0500" stop="20210422050000 -0500" channel="Canal Fox Sports 3 (México)">
+    <title lang="es">Borussia D. vs. Manchester City</title>
+  </programme>
+  <programme start="20210422050000 -0500" stop="20210422060000 -0500" channel="Canal Fox Sports 3 (México)">
+    <title lang="es">El show de la fórmula 1</title>
+  </programme>
+  <programme start="20210422060000 -0500" stop="20210422063000 -0500" channel="Canal Fox Sports 3 (México)">
+    <title lang="es">World Rally Championship 2021</title>
+  </programme>
+  <programme start="20210422063000 -0500" stop="20210422073000 -0500" channel="Canal Fox Sports 3 (México)">
     <title lang="es">Lo mejor del 2020 FIM Motocros</title>
   </programme>
-  <programme start="20210420190000 -0500" stop="20210420200000 -0500" channel="Canal Fox Sports 3 (México)">
-    <title lang="es">El show de la fórmula 1</title>
+  <programme start="20210422073000 -0500" stop="20210422080000 -0500" channel="Canal Fox Sports 3 (México)">
+    <title lang="es">Nascar Cup Series 2021 Richmon</title>
   </programme>
-  <programme start="20210420200000 -0500" stop="20210420220000 -0500" channel="Canal Fox Sports 3 (México)">
+  <programme start="20210422080000 -0500" stop="20210422110000 -0500" channel="Canal Fox Sports 3 (México)">
+    <title lang="es">Nascar Cup Series 2021 Richmon</title>
+  </programme>
+  <programme start="20210422110000 -0500" stop="20210422130000 -0500" channel="Canal Fox Sports 3 (México)">
     <title lang="es">Fórmula 1 2021 GP Italia</title>
   </programme>
-  <programme start="20210420220000 -0500" stop="20210420230000 -0500" channel="Canal Fox Sports 3 (México)">
-    <title lang="es">Lo mejor del 2020 Fórmula 3</title>
+  <programme start="20210422130000 -0500" stop="20210422133000 -0500" channel="Canal Fox Sports 3 (México)">
+    <title lang="es">World Rally Championship 2021</title>
   </programme>
-  <programme start="20210420230000 -0500" stop="20210421000000 -0500" channel="Canal Fox Sports 3 (México)">
+  <programme start="20210422133000 -0500" stop="20210422143000 -0500" channel="Canal Fox Sports 3 (México)">
+    <title lang="es">Lo mejor del 2020 WTCR</title>
+  </programme>
+  <programme start="20210422143000 -0500" stop="20210422153000 -0500" channel="Canal Fox Sports 3 (México)">
     <title lang="es">El show de la fórmula 1</title>
   </programme>
-  <programme start="20210420001500 -0500" stop="20210420011000 -0500" channel="Canal Adrenalina Sports Network">
+  <programme start="20210422153000 -0500" stop="20210422163000 -0500" channel="Canal Fox Sports 3 (México)">
+    <title lang="es">Lo mejor del 2020 Motul FIM</title>
+  </programme>
+  <programme start="20210422163000 -0500" stop="20210422173000 -0500" channel="Canal Fox Sports 3 (México)">
+    <title lang="es">Lo mejor del 2020 WEC</title>
+  </programme>
+  <programme start="20210422173000 -0500" stop="20210422183000 -0500" channel="Canal Fox Sports 3 (México)">
+    <title lang="es">Lo mejor del 2020 FIM Motocros</title>
+  </programme>
+  <programme start="20210422183000 -0500" stop="20210422193000 -0500" channel="Canal Fox Sports 3 (México)">
+    <title lang="es">El show de la fórmula 1</title>
+  </programme>
+  <programme start="20210422193000 -0500" stop="20210422200000 -0500" channel="Canal Fox Sports 3 (México)">
+    <title lang="es">Gp 1</title>
+  </programme>
+  <programme start="20210422200000 -0500" stop="20210422210000 -0500" channel="Canal Fox Sports 3 (México)">
+    <title lang="es">Circuito</title>
+  </programme>
+  <programme start="20210422210000 -0500" stop="20210422213000 -0500" channel="Canal Fox Sports 3 (México)">
+    <title lang="es">Nascar Carreras Históricas</title>
+  </programme>
+  <programme start="20210422213000 -0500" stop="20210422220000 -0500" channel="Canal Fox Sports 3 (México)">
+    <title lang="es">Rally on board</title>
+  </programme>
+  <programme start="20210422220000 -0500" stop="20210422230000 -0500" channel="Canal Fox Sports 3 (México)">
+    <title lang="es">El show de la fórmula 1</title>
+  </programme>
+  <programme start="20210422230000 -0500" stop="20210423000000 -0500" channel="Canal Fox Sports 3 (México)">
+    <title lang="es">Circuito</title>
+  </programme>
+  <programme start="20210422001000 -0500" stop="20210422010500 -0500" channel="Canal Adrenalina Sports Network">
     <title lang="es">XFL 2018</title>
   </programme>
-  <programme start="20210420011000 -0500" stop="20210420030000 -0500" channel="Canal Adrenalina Sports Network">
+  <programme start="20210422010500 -0500" stop="20210422013500 -0500" channel="Canal Adrenalina Sports Network">
+    <title lang="es">Desafío TDN</title>
+  </programme>
+  <programme start="20210422013500 -0500" stop="20210422032000 -0500" channel="Canal Adrenalina Sports Network">
     <title lang="es">Beltran vs. Mendoza Repetición</title>
   </programme>
-  <programme start="20210420030000 -0500" stop="20210420033000 -0500" channel="Canal Adrenalina Sports Network">
-    <title lang="es">Gran Fondo NY 1 Monterrey</title>
-  </programme>
-  <programme start="20210420033000 -0500" stop="20210420042000 -0500" channel="Canal Adrenalina Sports Network">
+  <programme start="20210422032000 -0500" stop="20210422040500 -0500" channel="Canal Adrenalina Sports Network">
     <title lang="es">Cloroformo</title>
   </programme>
-  <programme start="20210420042000 -0500" stop="20210420051500 -0500" channel="Canal Adrenalina Sports Network">
+  <programme start="20210422040500 -0500" stop="20210422050000 -0500" channel="Canal Adrenalina Sports Network">
     <title lang="es">XFL 2018</title>
   </programme>
-  <programme start="20210420051500 -0500" stop="20210420060500 -0500" channel="Canal Adrenalina Sports Network">
+  <programme start="20210422050000 -0500" stop="20210422060500 -0500" channel="Canal Adrenalina Sports Network">
     <title lang="es">Aventura Extrema 2015</title>
   </programme>
-  <programme start="20210420060500 -0500" stop="20210420070500 -0500" channel="Canal Adrenalina Sports Network">
+  <programme start="20210422060500 -0500" stop="20210422070500 -0500" channel="Canal Adrenalina Sports Network">
     <title lang="es">Aquí te levantas</title>
   </programme>
-  <programme start="20210420070500 -0500" stop="20210420080500 -0500" channel="Canal Adrenalina Sports Network">
+  <programme start="20210422070500 -0500" stop="20210422080500 -0500" channel="Canal Adrenalina Sports Network">
     <title lang="es">Yoga con Luz</title>
   </programme>
-  <programme start="20210420080500 -0500" stop="20210420090500 -0500" channel="Canal Adrenalina Sports Network">
+  <programme start="20210422080500 -0500" stop="20210422090500 -0500" channel="Canal Adrenalina Sports Network">
     <title lang="es">Ponte fit</title>
   </programme>
-  <programme start="20210420090500 -0500" stop="20210420100000 -0500" channel="Canal Adrenalina Sports Network">
+  <programme start="20210422090500 -0500" stop="20210422100000 -0500" channel="Canal Adrenalina Sports Network">
     <title lang="es">XFL 2018</title>
   </programme>
-  <programme start="20210420100000 -0500" stop="20210420115500 -0500" channel="Canal Adrenalina Sports Network">
+  <programme start="20210422100000 -0500" stop="20210422114500 -0500" channel="Canal Adrenalina Sports Network">
     <title lang="es">Beltran vs. Mendoza Repetición</title>
   </programme>
-  <programme start="20210420115500 -0500" stop="20210420123000 -0500" channel="Canal Adrenalina Sports Network">
+  <programme start="20210422114500 -0500" stop="20210422120500 -0500" channel="Canal Adrenalina Sports Network">
     <title lang="es">Desafío TDN</title>
   </programme>
-  <programme start="20210420123000 -0500" stop="20210420133000 -0500" channel="Canal Adrenalina Sports Network">
+  <programme start="20210422120500 -0500" stop="20210422123500 -0500" channel="Canal Adrenalina Sports Network">
+    <title lang="es">Gran Fondo NY 1 Nueva York</title>
+  </programme>
+  <programme start="20210422123500 -0500" stop="20210422133000 -0500" channel="Canal Adrenalina Sports Network">
     <title lang="es">Yoga con Luz</title>
   </programme>
-  <programme start="20210420133000 -0500" stop="20210420143000 -0500" channel="Canal Adrenalina Sports Network">
+  <programme start="20210422133000 -0500" stop="20210422143000 -0500" channel="Canal Adrenalina Sports Network">
     <title lang="es">Ponte fit</title>
   </programme>
-  <programme start="20210420143000 -0500" stop="20210420152500 -0500" channel="Canal Adrenalina Sports Network">
-    <title lang="es">Aventura Extrema 2014</title>
+  <programme start="20210422143000 -0500" stop="20210422152500 -0500" channel="Canal Adrenalina Sports Network">
+    <title lang="es">Aventura Extrema 2015</title>
   </programme>
-  <programme start="20210420152500 -0500" stop="20210420162500 -0500" channel="Canal Adrenalina Sports Network">
+  <programme start="20210422152500 -0500" stop="20210422162500 -0500" channel="Canal Adrenalina Sports Network">
     <title lang="es">Aquí te levantas</title>
   </programme>
-  <programme start="20210420162500 -0500" stop="20210420172500 -0500" channel="Canal Adrenalina Sports Network">
+  <programme start="20210422162500 -0500" stop="20210422172500 -0500" channel="Canal Adrenalina Sports Network">
     <title lang="es">Yoga con Luz</title>
   </programme>
-  <programme start="20210420172500 -0500" stop="20210420182500 -0500" channel="Canal Adrenalina Sports Network">
+  <programme start="20210422172500 -0500" stop="20210422182500 -0500" channel="Canal Adrenalina Sports Network">
     <title lang="es">Ponte fit</title>
   </programme>
-  <programme start="20210420182500 -0500" stop="20210420185500 -0500" channel="Canal Adrenalina Sports Network">
+  <programme start="20210422182500 -0500" stop="20210422185500 -0500" channel="Canal Adrenalina Sports Network">
     <title lang="es">Desafío TDN</title>
   </programme>
-  <programme start="20210420185500 -0500" stop="20210420204000 -0500" channel="Canal Adrenalina Sports Network">
-    <title lang="es">Beltran vs. Mendoza Repetición</title>
+  <programme start="20210422185500 -0500" stop="20210422204000 -0500" channel="Canal Adrenalina Sports Network">
+    <title lang="es">De la Torre vs. Cossio Repetición</title>
   </programme>
-  <programme start="20210420204000 -0500" stop="20210420210000 -0500" channel="Canal Adrenalina Sports Network">
+  <programme start="20210422204000 -0500" stop="20210422211000 -0500" channel="Canal Adrenalina Sports Network">
     <title lang="es">Desafío TDN</title>
   </programme>
-  <programme start="20210420210000 -0500" stop="20210420215500 -0500" channel="Canal Adrenalina Sports Network">
+  <programme start="20210422211000 -0500" stop="20210422215500 -0500" channel="Canal Adrenalina Sports Network">
     <title lang="es">Cloroformo</title>
   </programme>
-  <programme start="20210420215500 -0500" stop="20210420225000 -0500" channel="Canal Adrenalina Sports Network">
+  <programme start="20210422215500 -0500" stop="20210422225000 -0500" channel="Canal Adrenalina Sports Network">
     <title lang="es">XFL 2018</title>
   </programme>
-  <programme start="20210420225000 -0500" stop="20210420234500 -0500" channel="Canal Adrenalina Sports Network">
+  <programme start="20210422225000 -0500" stop="20210422234500 -0500" channel="Canal Adrenalina Sports Network">
     <title lang="es">Aventura Extrema 2014</title>
   </programme>
-  <programme start="20210420234500 -0500" stop="20210421001500 -0500" channel="Canal Adrenalina Sports Network">
+  <programme start="20210422234500 -0500" stop="20210423001500 -0500" channel="Canal Adrenalina Sports Network">
     <title lang="es">Desafío TDN</title>
   </programme>
-  <programme start="20210420010000 -0500" stop="20210420020000 -0500" channel="Canal TUDN (México)">
-    <title lang="es">Somos LMX</title>
-  </programme>
-  <programme start="20210420020000 -0500" stop="20210420030000 -0500" channel="Canal TUDN (México)">
-    <title lang="es">Los Mejores Versus</title>
-  </programme>
-  <programme start="20210420030000 -0500" stop="20210420050000 -0500" channel="Canal TUDN (México)">
-    <title lang="es">América Vs. Cruz Azul</title>
-  </programme>
-  <programme start="20210420050000 -0500" stop="20210420060000 -0500" channel="Canal TUDN (México)">
+  <programme start="20210422020000 -0500" stop="20210422030000 -0500" channel="Canal TUDN (México)">
     <title lang="es">Contacto deportivo</title>
   </programme>
-  <programme start="20210420060000 -0500" stop="20210420070000 -0500" channel="Canal TUDN (México)">
+  <programme start="20210422030000 -0500" stop="20210422050000 -0500" channel="Canal TUDN (México)">
+    <title lang="es">Necaxa vs. Querétaro</title>
+  </programme>
+  <programme start="20210422050000 -0500" stop="20210422060000 -0500" channel="Canal TUDN (México)">
+    <title lang="es">Contacto deportivo</title>
+  </programme>
+  <programme start="20210422060000 -0500" stop="20210422070000 -0500" channel="Canal TUDN (México)">
     <title lang="es">Línea de cuatro</title>
   </programme>
-  <programme start="20210420070000 -0500" stop="20210420080000 -0500" channel="Canal TUDN (México)">
+  <programme start="20210422070000 -0500" stop="20210422080000 -0500" channel="Canal TUDN (México)">
     <title lang="es">Contacto deportivo</title>
   </programme>
-  <programme start="20210420080000 -0500" stop="20210420090000 -0500" channel="Canal TUDN (México)">
+  <programme start="20210422080000 -0500" stop="20210422090000 -0500" channel="Canal TUDN (México)">
     <title lang="es">Hazaña del deporte Vive</title>
   </programme>
-  <programme start="20210420090000 -0500" stop="20210420110000 -0500" channel="Canal TUDN (México)">
+  <programme start="20210422090000 -0500" stop="20210422110000 -0500" channel="Canal TUDN (México)">
+    <title lang="es">Atlante vs. Cancun</title>
+  </programme>
+  <programme start="20210422110000 -0500" stop="20210422120000 -0500" channel="Canal TUDN (México)">
+    <title lang="es">Hazaña del deporte Vive</title>
+  </programme>
+  <programme start="20210422120000 -0500" stop="20210422150000 -0500" channel="Canal TUDN (México)">
+    <title lang="es">Pittsburgh vs. Detroit En Vivo</title>
+  </programme>
+  <programme start="20210422150000 -0500" stop="20210422170000 -0500" channel="Canal TUDN (México)">
     <title lang="es">Toluca vs. Santos</title>
   </programme>
-  <programme start="20210420110000 -0500" stop="20210420120000 -0500" channel="Canal TUDN (México)">
-    <title lang="es">Hazaña del deporte Vive</title>
+  <programme start="20210422170000 -0500" stop="20210422180000 -0500" channel="Canal TUDN (México)">
+    <title lang="es">Misión Europa</title>
   </programme>
-  <programme start="20210420120000 -0500" stop="20210420140000 -0500" channel="Canal TUDN (México)">
-    <title lang="es">UNAM vs. Querétaro</title>
+  <programme start="20210422180000 -0500" stop="20210422203000 -0500" channel="Canal TUDN (México)">
+    <title lang="es">Philadelphia vs. Milwaukee En Vivo</title>
   </programme>
-  <programme start="20210420140000 -0500" stop="20210420150000 -0500" channel="Canal TUDN (México)">
-    <title lang="es">Fut en 60</title>
+  <programme start="20210422203000 -0500" stop="20210422205500 -0500" channel="Canal TUDN (México)">
+    <title lang="es">Fútbol Central</title>
   </programme>
-  <programme start="20210420150000 -0500" stop="20210420180000 -0500" channel="Canal TUDN (México)">
-    <title lang="es">Dodgers vs. Seattle En Vivo</title>
+  <programme start="20210422205500 -0500" stop="20210422230000 -0500" channel="Canal TUDN (México)">
+    <title lang="es">Tapatío vs. Tlaxcala En Vivo</title>
   </programme>
-  <programme start="20210420180000 -0500" stop="20210420190000 -0500" channel="Canal TUDN (México)">
-    <title lang="es">Futbol club</title>
-  </programme>
-  <programme start="20210420190000 -0500" stop="20210420230000 -0500" channel="Canal TUDN (México)">
-    <title lang="es">Fútbol Liga de Expansión</title>
-  </programme>
-  <programme start="20210420230000 -0500" stop="20210421000000 -0500" channel="Canal TUDN (México)">
+  <programme start="20210422230000 -0500" stop="20210423000000 -0500" channel="Canal TUDN (México)">
     <title lang="es">Contacto deportivo</title>
   </programme>
-  <programme start="20210420002500 -0500" stop="20210420010000 -0500" channel="Canal Cartoon Network (México)">
+  <programme start="20210422002500 -0500" stop="20210422010000 -0500" channel="Canal Cartoon Network (México)">
     <title lang="es">Radiant</title>
   </programme>
-  <programme start="20210420010000 -0500" stop="20210420020000 -0500" channel="Canal Cartoon Network (México)">
-    <title lang="es">DC Super Hero Girls</title>
+  <programme start="20210422010000 -0500" stop="20210422020000 -0500" channel="Canal Cartoon Network (México)">
+    <title lang="es">Los Jóvenes Titanes En Acción</title>
   </programme>
-  <programme start="20210420020000 -0500" stop="20210420030000 -0500" channel="Canal Cartoon Network (México)">
+  <programme start="20210422020000 -0500" stop="20210422030000 -0500" channel="Canal Cartoon Network (México)">
     <title lang="es">Campamento de verano</title>
   </programme>
-  <programme start="20210420030000 -0500" stop="20210420040000 -0500" channel="Canal Cartoon Network (México)">
+  <programme start="20210422030000 -0500" stop="20210422040000 -0500" channel="Canal Cartoon Network (México)">
     <title lang="es">Steven universe</title>
   </programme>
-  <programme start="20210420040000 -0500" stop="20210420041500 -0500" channel="Canal Cartoon Network (México)">
-    <title lang="es">El Laboratorio de Dexter</title>
+  <programme start="20210422040000 -0500" stop="20210422041500 -0500" channel="Canal Cartoon Network (México)">
+    <title lang="es">La Vaca y el Pollito</title>
   </programme>
-  <programme start="20210420041500 -0500" stop="20210420044500 -0500" channel="Canal Cartoon Network (México)">
-    <title lang="es">Generador rex</title>
+  <programme start="20210422041500 -0500" stop="20210422044500 -0500" channel="Canal Cartoon Network (México)">
+    <title lang="es">Mansión Foster</title>
   </programme>
-  <programme start="20210420044500 -0500" stop="20210420050000 -0500" channel="Canal Cartoon Network (México)">
-    <title lang="es">Sheep en la Gran Ciudad</title>
+  <programme start="20210422044500 -0500" stop="20210422050000 -0500" channel="Canal Cartoon Network (México)">
+    <title lang="es">Jones, el robot</title>
   </programme>
-  <programme start="20210420050000 -0500" stop="20210420060000 -0500" channel="Canal Cartoon Network (México)">
+  <programme start="20210422050000 -0500" stop="20210422060000 -0500" channel="Canal Cartoon Network (México)">
     <title lang="es">El Increíble Mundo de Gumball</title>
   </programme>
-  <programme start="20210420060000 -0500" stop="20210420071000 -0500" channel="Canal Cartoon Network (México)">
+  <programme start="20210422060000 -0500" stop="20210422071000 -0500" channel="Canal Cartoon Network (México)">
     <title lang="es">El mundo de Craig</title>
   </programme>
-  <programme start="20210420071000 -0500" stop="20210420073500 -0500" channel="Canal Cartoon Network (México)">
-    <title lang="es">Transformers Cyberverse</title>
+  <programme start="20210422071000 -0500" stop="20210422073500 -0500" channel="Canal Cartoon Network (México)">
+    <title lang="es">Mao Mao Héroes de puro</title>
   </programme>
-  <programme start="20210420073500 -0500" stop="20210420080000 -0500" channel="Canal Cartoon Network (México)">
+  <programme start="20210422073500 -0500" stop="20210422080000 -0500" channel="Canal Cartoon Network (México)">
     <title lang="es">Pokémon Sol y Luna</title>
   </programme>
-  <programme start="20210420080000 -0500" stop="20210420083000 -0500" channel="Canal Cartoon Network (México)">
+  <programme start="20210422080000 -0500" stop="20210422083000 -0500" channel="Canal Cartoon Network (México)">
     <title lang="es">Los Jóvenes Titanes En Acción</title>
   </programme>
-  <programme start="20210420083000 -0500" stop="20210420093000 -0500" channel="Canal Cartoon Network (México)">
+  <programme start="20210422083000 -0500" stop="20210422093000 -0500" channel="Canal Cartoon Network (México)">
     <title lang="es">El Increíble Mundo de Gumball</title>
   </programme>
-  <programme start="20210420093000 -0500" stop="20210420103000 -0500" channel="Canal Cartoon Network (México)">
+  <programme start="20210422093000 -0500" stop="20210422103000 -0500" channel="Canal Cartoon Network (México)">
     <title lang="es">Los Jóvenes Titanes En Acción</title>
   </programme>
-  <programme start="20210420103000 -0500" stop="20210420110000 -0500" channel="Canal Cartoon Network (México)">
+  <programme start="20210422103000 -0500" stop="20210422110000 -0500" channel="Canal Cartoon Network (México)">
     <title lang="es">DC Super Hero Girls</title>
   </programme>
-  <programme start="20210420110000 -0500" stop="20210420113000 -0500" channel="Canal Cartoon Network (México)">
+  <programme start="20210422110000 -0500" stop="20210422113000 -0500" channel="Canal Cartoon Network (México)">
     <title lang="es">DC Super Hero Girls</title>
   </programme>
-  <programme start="20210420113000 -0500" stop="20210420120000 -0500" channel="Canal Cartoon Network (México)">
+  <programme start="20210422113000 -0500" stop="20210422120000 -0500" channel="Canal Cartoon Network (México)">
     <title lang="es">Drama Total La guardería</title>
   </programme>
-  <programme start="20210420120000 -0500" stop="20210420130000 -0500" channel="Canal Cartoon Network (México)">
+  <programme start="20210422120000 -0500" stop="20210422130000 -0500" channel="Canal Cartoon Network (México)">
     <title lang="es">Escandalosos</title>
   </programme>
-  <programme start="20210420130000 -0500" stop="20210420140000 -0500" channel="Canal Cartoon Network (México)">
+  <programme start="20210422130000 -0500" stop="20210422140000 -0500" channel="Canal Cartoon Network (México)">
     <title lang="es">Los Jóvenes Titanes En Acción</title>
   </programme>
-  <programme start="20210420140000 -0500" stop="20210420150000 -0500" channel="Canal Cartoon Network (México)">
+  <programme start="20210422140000 -0500" stop="20210422150000 -0500" channel="Canal Cartoon Network (México)">
     <title lang="es">Drama Total La guardería</title>
   </programme>
-  <programme start="20210420150000 -0500" stop="20210420160000 -0500" channel="Canal Cartoon Network (México)">
+  <programme start="20210422150000 -0500" stop="20210422160000 -0500" channel="Canal Cartoon Network (México)">
     <title lang="es">Los Jóvenes Titanes En Acción</title>
   </programme>
-  <programme start="20210420160000 -0500" stop="20210420170000 -0500" channel="Canal Cartoon Network (México)">
+  <programme start="20210422160000 -0500" stop="20210422170000 -0500" channel="Canal Cartoon Network (México)">
     <title lang="es">Los Jóvenes Titanes En Acción</title>
   </programme>
-  <programme start="20210420170000 -0500" stop="20210420174500 -0500" channel="Canal Cartoon Network (México)">
+  <programme start="20210422170000 -0500" stop="20210422174500 -0500" channel="Canal Cartoon Network (México)">
     <title lang="es">Escandalosos</title>
   </programme>
-  <programme start="20210420174500 -0500" stop="20210420180000 -0500" channel="Canal Cartoon Network (México)">
-    <title lang="es">Any Malu Show</title>
+  <programme start="20210422174500 -0500" stop="20210422180000 -0500" channel="Canal Cartoon Network (México)">
+    <title lang="es">ThunderCats rugen</title>
   </programme>
-  <programme start="20210420180000 -0500" stop="20210420183000 -0500" channel="Canal Cartoon Network (México)">
+  <programme start="20210422180000 -0500" stop="20210422183000 -0500" channel="Canal Cartoon Network (México)">
     <title lang="es">Victor y Valentino</title>
   </programme>
-  <programme start="20210420183000 -0500" stop="20210420190000 -0500" channel="Canal Cartoon Network (México)">
+  <programme start="20210422183000 -0500" stop="20210422190000 -0500" channel="Canal Cartoon Network (México)">
     <title lang="es">DC Super Hero Girls</title>
   </programme>
-  <programme start="20210420190000 -0500" stop="20210420194500 -0500" channel="Canal Cartoon Network (México)">
+  <programme start="20210422190000 -0500" stop="20210422194500 -0500" channel="Canal Cartoon Network (México)">
     <title lang="es">Los Jóvenes Titanes En Acción</title>
   </programme>
-  <programme start="20210420194500 -0500" stop="20210420200000 -0500" channel="Canal Cartoon Network (México)">
-    <title lang="es">El mundo de Craig</title>
+  <programme start="20210422194500 -0500" stop="20210422200000 -0500" channel="Canal Cartoon Network (México)">
+    <title lang="es">Manzana y Cebollín</title>
   </programme>
-  <programme start="20210420200000 -0500" stop="20210420204500 -0500" channel="Canal Cartoon Network (México)">
+  <programme start="20210422200000 -0500" stop="20210422204500 -0500" channel="Canal Cartoon Network (México)">
     <title lang="es">Escandalosos</title>
   </programme>
-  <programme start="20210420204500 -0500" stop="20210420210000 -0500" channel="Canal Cartoon Network (México)">
+  <programme start="20210422204500 -0500" stop="20210422210000 -0500" channel="Canal Cartoon Network (México)">
     <title lang="es">Victor y Valentino</title>
   </programme>
-  <programme start="20210420210000 -0500" stop="20210420220000 -0500" channel="Canal Cartoon Network (México)">
+  <programme start="20210422210000 -0500" stop="20210422220000 -0500" channel="Canal Cartoon Network (México)">
     <title lang="es">Drama Total La guardería</title>
   </programme>
-  <programme start="20210420220000 -0500" stop="20210420230000 -0500" channel="Canal Cartoon Network (México)">
+  <programme start="20210422220000 -0500" stop="20210422230000 -0500" channel="Canal Cartoon Network (México)">
     <title lang="es">Los Jóvenes Titanes En Acción</title>
   </programme>
-  <programme start="20210420230000 -0500" stop="20210421000000 -0500" channel="Canal Cartoon Network (México)">
+  <programme start="20210422230000 -0500" stop="20210423000000 -0500" channel="Canal Cartoon Network (México)">
     <title lang="es">El Increíble Mundo de Gumball</title>
   </programme>
-  <programme start="20210420010000 -0500" stop="20210420020000 -0500" channel="Canal Boomerang (México)">
+  <programme start="20210422010000 -0500" stop="20210422020000 -0500" channel="Canal Boomerang (México)">
     <title lang="es">Oddbods</title>
   </programme>
-  <programme start="20210420020000 -0500" stop="20210420030000 -0500" channel="Canal Boomerang (México)">
+  <programme start="20210422020000 -0500" stop="20210422030000 -0500" channel="Canal Boomerang (México)">
     <title lang="es">New Looney Tunes</title>
   </programme>
-  <programme start="20210420030000 -0500" stop="20210420033000 -0500" channel="Canal Boomerang (México)">
+  <programme start="20210422030000 -0500" stop="20210422033000 -0500" channel="Canal Boomerang (México)">
     <title lang="es">Mr. Bean</title>
   </programme>
-  <programme start="20210420033000 -0500" stop="20210420040000 -0500" channel="Canal Boomerang (México)">
+  <programme start="20210422033000 -0500" stop="20210422040000 -0500" channel="Canal Boomerang (México)">
     <title lang="es">Taffy</title>
   </programme>
-  <programme start="20210420040000 -0500" stop="20210420050000 -0500" channel="Canal Boomerang (México)">
+  <programme start="20210422040000 -0500" stop="20210422050000 -0500" channel="Canal Boomerang (México)">
     <title lang="es">Bunnicula, el conejo vampiro</title>
   </programme>
-  <programme start="20210420050000 -0500" stop="20210420060000 -0500" channel="Canal Boomerang (México)">
+  <programme start="20210422050000 -0500" stop="20210422060000 -0500" channel="Canal Boomerang (México)">
     <title lang="es">Grizzy and the lemmings</title>
   </programme>
-  <programme start="20210420060000 -0500" stop="20210420070000 -0500" channel="Canal Boomerang (México)">
+  <programme start="20210422060000 -0500" stop="20210422070000 -0500" channel="Canal Boomerang (México)">
     <title lang="es">Oddbods</title>
   </programme>
-  <programme start="20210420070000 -0500" stop="20210420080000 -0500" channel="Canal Boomerang (México)">
+  <programme start="20210422070000 -0500" stop="20210422080000 -0500" channel="Canal Boomerang (México)">
     <title lang="es">El show de Tom y Jerry</title>
   </programme>
-  <programme start="20210420080000 -0500" stop="20210420090000 -0500" channel="Canal Boomerang (México)">
+  <programme start="20210422080000 -0500" stop="20210422090000 -0500" channel="Canal Boomerang (México)">
     <title lang="es">New Looney Tunes</title>
   </programme>
-  <programme start="20210420090000 -0500" stop="20210420093000 -0500" channel="Canal Boomerang (México)">
+  <programme start="20210422090000 -0500" stop="20210422093000 -0500" channel="Canal Boomerang (México)">
     <title lang="es">Grizzy and the lemmings</title>
   </programme>
-  <programme start="20210420093000 -0500" stop="20210420100000 -0500" channel="Canal Boomerang (México)">
+  <programme start="20210422093000 -0500" stop="20210422100000 -0500" channel="Canal Boomerang (México)">
     <title lang="es">El Show de Peabody y Sherman</title>
   </programme>
-  <programme start="20210420100000 -0500" stop="20210420110000 -0500" channel="Canal Boomerang (México)">
+  <programme start="20210422100000 -0500" stop="20210422110000 -0500" channel="Canal Boomerang (México)">
     <title lang="es">¡Ponte en onda, Scooby Doo</title>
   </programme>
-  <programme start="20210420110000 -0500" stop="20210420113000 -0500" channel="Canal Boomerang (México)">
+  <programme start="20210422110000 -0500" stop="20210422113000 -0500" channel="Canal Boomerang (México)">
     <title lang="es">Mónica y su pandilla</title>
   </programme>
-  <programme start="20210420113000 -0500" stop="20210420120000 -0500" channel="Canal Boomerang (México)">
+  <programme start="20210422113000 -0500" stop="20210422120000 -0500" channel="Canal Boomerang (México)">
     <title lang="es">Zuzubalandia</title>
   </programme>
-  <programme start="20210420120000 -0500" stop="20210420123000 -0500" channel="Canal Boomerang (México)">
+  <programme start="20210422120000 -0500" stop="20210422123000 -0500" channel="Canal Boomerang (México)">
     <title lang="es">El show de Tom y Jerry</title>
   </programme>
-  <programme start="20210420123000 -0500" stop="20210420130000 -0500" channel="Canal Boomerang (México)">
+  <programme start="20210422123000 -0500" stop="20210422130000 -0500" channel="Canal Boomerang (México)">
     <title lang="es">Mr. Bean</title>
   </programme>
-  <programme start="20210420130000 -0500" stop="20210420133000 -0500" channel="Canal Boomerang (México)">
+  <programme start="20210422130000 -0500" stop="20210422133000 -0500" channel="Canal Boomerang (México)">
     <title lang="es">Taffy</title>
   </programme>
-  <programme start="20210420133000 -0500" stop="20210420140000 -0500" channel="Canal Boomerang (México)">
+  <programme start="20210422133000 -0500" stop="20210422140000 -0500" channel="Canal Boomerang (México)">
     <title lang="es">Dorothy y el Mago de Oz</title>
   </programme>
-  <programme start="20210420140000 -0500" stop="20210420143000 -0500" channel="Canal Boomerang (México)">
+  <programme start="20210422140000 -0500" stop="20210422143000 -0500" channel="Canal Boomerang (México)">
     <title lang="es">New Looney Tunes</title>
   </programme>
-  <programme start="20210420143000 -0500" stop="20210420153000 -0500" channel="Canal Boomerang (México)">
+  <programme start="20210422143000 -0500" stop="20210422153000 -0500" channel="Canal Boomerang (México)">
     <title lang="es">Grizzy and the lemmings</title>
   </programme>
-  <programme start="20210420153000 -0500" stop="20210420160000 -0500" channel="Canal Boomerang (México)">
+  <programme start="20210422153000 -0500" stop="20210422160000 -0500" channel="Canal Boomerang (México)">
     <title lang="es">Los autos locos</title>
   </programme>
-  <programme start="20210420160000 -0500" stop="20210420163000 -0500" channel="Canal Boomerang (México)">
+  <programme start="20210422160000 -0500" stop="20210422163000 -0500" channel="Canal Boomerang (México)">
     <title lang="es">Barbie Dreamhouse Adventures</title>
   </programme>
-  <programme start="20210420163000 -0500" stop="20210420170000 -0500" channel="Canal Boomerang (México)">
+  <programme start="20210422163000 -0500" stop="20210422170000 -0500" channel="Canal Boomerang (México)">
     <title lang="es">LEGO Friends Chicas</title>
   </programme>
-  <programme start="20210420170000 -0500" stop="20210420173000 -0500" channel="Canal Boomerang (México)">
+  <programme start="20210422170000 -0500" stop="20210422173000 -0500" channel="Canal Boomerang (México)">
     <title lang="es">El show de Tom y Jerry</title>
   </programme>
-  <programme start="20210420173000 -0500" stop="20210420180000 -0500" channel="Canal Boomerang (México)">
+  <programme start="20210422173000 -0500" stop="20210422180000 -0500" channel="Canal Boomerang (México)">
     <title lang="es">Ben 10</title>
   </programme>
-  <programme start="20210420180000 -0500" stop="20210420190000 -0500" channel="Canal Boomerang (México)">
+  <programme start="20210422180000 -0500" stop="20210422190000 -0500" channel="Canal Boomerang (México)">
     <title lang="es">¡Ponte en onda, Scooby Doo</title>
   </programme>
-  <programme start="20210420190000 -0500" stop="20210420191500 -0500" channel="Canal Boomerang (México)">
-    <title lang="es">Taffy</title>
+  <programme start="20210422190000 -0500" stop="20210422193000 -0500" channel="Canal Boomerang (México)">
+    <title lang="es">Scooby Doo y ¿quién crees tú</title>
   </programme>
-  <programme start="20210420191500 -0500" stop="20210420193000 -0500" channel="Canal Boomerang (México)">
-    <title lang="es">Mighty Mike</title>
+  <programme start="20210422193000 -0500" stop="20210422194500 -0500" channel="Canal Boomerang (México)">
+    <title lang="es">Oddbods</title>
   </programme>
-  <programme start="20210420193000 -0500" stop="20210420200000 -0500" channel="Canal Boomerang (México)">
+  <programme start="20210422194500 -0500" stop="20210422200000 -0500" channel="Canal Boomerang (México)">
     <title lang="es">WeeBoom</title>
   </programme>
-  <programme start="20210420200000 -0500" stop="20210420203000 -0500" channel="Canal Boomerang (México)">
+  <programme start="20210422200000 -0500" stop="20210422203000 -0500" channel="Canal Boomerang (México)">
     <title lang="es">DC Super Hero Girls</title>
   </programme>
-  <programme start="20210420203000 -0500" stop="20210420210000 -0500" channel="Canal Boomerang (México)">
+  <programme start="20210422203000 -0500" stop="20210422210000 -0500" channel="Canal Boomerang (México)">
     <title lang="es">New Looney Tunes</title>
   </programme>
-  <programme start="20210420210000 -0500" stop="20210420213000 -0500" channel="Canal Boomerang (México)">
+  <programme start="20210422210000 -0500" stop="20210422213000 -0500" channel="Canal Boomerang (México)">
     <title lang="es">Mr. Bean</title>
   </programme>
-  <programme start="20210420213000 -0500" stop="20210420220000 -0500" channel="Canal Boomerang (México)">
+  <programme start="20210422213000 -0500" stop="20210422220000 -0500" channel="Canal Boomerang (México)">
     <title lang="es">Taffy</title>
   </programme>
-  <programme start="20210420220000 -0500" stop="20210420230000 -0500" channel="Canal Boomerang (México)">
+  <programme start="20210422220000 -0500" stop="20210422230000 -0500" channel="Canal Boomerang (México)">
     <title lang="es">Grizzy and the lemmings</title>
   </programme>
-  <programme start="20210420230000 -0500" stop="20210421000000 -0500" channel="Canal Boomerang (México)">
+  <programme start="20210422230000 -0500" stop="20210423000000 -0500" channel="Canal Boomerang (México)">
     <title lang="es">Bunnicula, el conejo vampiro</title>
   </programme>
-  <programme start="20210420002500 -0500" stop="20210420005000 -0500" channel="Canal Discovery Kids (México)">
+  <programme start="20210422002500 -0500" stop="20210422005000 -0500" channel="Canal Discovery Kids (México)">
     <title lang="es">Viva el rey Julien, en el exi</title>
   </programme>
-  <programme start="20210420005000 -0500" stop="20210420011500 -0500" channel="Canal Discovery Kids (México)">
+  <programme start="20210422005000 -0500" stop="20210422011500 -0500" channel="Canal Discovery Kids (México)">
     <title lang="es">Hi-5</title>
   </programme>
-  <programme start="20210420011500 -0500" stop="20210420014000 -0500" channel="Canal Discovery Kids (México)">
+  <programme start="20210422011500 -0500" stop="20210422014000 -0500" channel="Canal Discovery Kids (México)">
     <title lang="es">Las aventuras del Gato con Bo</title>
   </programme>
-  <programme start="20210420014000 -0500" stop="20210420020400 -0500" channel="Canal Discovery Kids (México)">
+  <programme start="20210422014000 -0500" stop="20210422020400 -0500" channel="Canal Discovery Kids (México)">
     <title lang="es">Aventuras con los Kratt</title>
   </programme>
-  <programme start="20210420020400 -0500" stop="20210420022800 -0500" channel="Canal Discovery Kids (México)">
+  <programme start="20210422020400 -0500" stop="20210422022800 -0500" channel="Canal Discovery Kids (México)">
     <title lang="es">Las aventuras del Gato con Bo</title>
   </programme>
-  <programme start="20210420022800 -0500" stop="20210420025200 -0500" channel="Canal Discovery Kids (México)">
+  <programme start="20210422022800 -0500" stop="20210422025200 -0500" channel="Canal Discovery Kids (México)">
     <title lang="es">Aventuras con los Kratt</title>
   </programme>
-  <programme start="20210420025200 -0500" stop="20210420031400 -0500" channel="Canal Discovery Kids (México)">
+  <programme start="20210422025200 -0500" stop="20210422031400 -0500" channel="Canal Discovery Kids (México)">
     <title lang="es">Las aventuras del Gato con Bo</title>
   </programme>
-  <programme start="20210420031400 -0500" stop="20210420033800 -0500" channel="Canal Discovery Kids (México)">
+  <programme start="20210422031400 -0500" stop="20210422033800 -0500" channel="Canal Discovery Kids (México)">
     <title lang="es">Viva el rey Julien, en el exi</title>
   </programme>
-  <programme start="20210420033800 -0500" stop="20210420040200 -0500" channel="Canal Discovery Kids (México)">
+  <programme start="20210422033800 -0500" stop="20210422040200 -0500" channel="Canal Discovery Kids (México)">
     <title lang="es">Hi-5</title>
   </programme>
-  <programme start="20210420040200 -0500" stop="20210420042600 -0500" channel="Canal Discovery Kids (México)">
+  <programme start="20210422040200 -0500" stop="20210422042600 -0500" channel="Canal Discovery Kids (México)">
     <title lang="es">Viva el rey Julien, en el exi</title>
   </programme>
-  <programme start="20210420042600 -0500" stop="20210420045000 -0500" channel="Canal Discovery Kids (México)">
+  <programme start="20210422042600 -0500" stop="20210422045000 -0500" channel="Canal Discovery Kids (México)">
     <title lang="es">Aventuras con los Kratt</title>
   </programme>
-  <programme start="20210420045000 -0500" stop="20210420051200 -0500" channel="Canal Discovery Kids (México)">
+  <programme start="20210422045000 -0500" stop="20210422051200 -0500" channel="Canal Discovery Kids (México)">
     <title lang="es">Zak Storm</title>
   </programme>
-  <programme start="20210420051200 -0500" stop="20210420053600 -0500" channel="Canal Discovery Kids (México)">
+  <programme start="20210422051200 -0500" stop="20210422053600 -0500" channel="Canal Discovery Kids (México)">
     <title lang="es">Zak Storm</title>
   </programme>
-  <programme start="20210420053600 -0500" stop="20210420060000 -0500" channel="Canal Discovery Kids (México)">
+  <programme start="20210422053600 -0500" stop="20210422060000 -0500" channel="Canal Discovery Kids (México)">
     <title lang="es">Miss Moon</title>
   </programme>
-  <programme start="20210420060000 -0500" stop="20210420071200 -0500" channel="Canal Discovery Kids (México)">
+  <programme start="20210422060000 -0500" stop="20210422071200 -0500" channel="Canal Discovery Kids (México)">
     <title lang="es">Peppa</title>
   </programme>
-  <programme start="20210420071200 -0500" stop="20210420072700 -0500" channel="Canal Discovery Kids (México)">
+  <programme start="20210422071200 -0500" stop="20210422072700 -0500" channel="Canal Discovery Kids (México)">
     <title lang="es">Ricky Zoom</title>
   </programme>
-  <programme start="20210420072700 -0500" stop="20210420075300 -0500" channel="Canal Discovery Kids (México)">
+  <programme start="20210422072700 -0500" stop="20210422075300 -0500" channel="Canal Discovery Kids (México)">
     <title lang="es">Peppa</title>
   </programme>
-  <programme start="20210420075300 -0500" stop="20210420083500 -0500" channel="Canal Discovery Kids (México)">
-    <title lang="es">Jorge, el curioso</title>
+  <programme start="20210422075300 -0500" stop="20210422083500 -0500" channel="Canal Discovery Kids (México)">
+    <title lang="es">Jorge el curioso</title>
   </programme>
-  <programme start="20210420083500 -0500" stop="20210420085000 -0500" channel="Canal Discovery Kids (México)">
+  <programme start="20210422083500 -0500" stop="20210422085000 -0500" channel="Canal Discovery Kids (México)">
     <title lang="es">44 Gatos</title>
   </programme>
-  <programme start="20210420085000 -0500" stop="20210420091300 -0500" channel="Canal Discovery Kids (México)">
+  <programme start="20210422085000 -0500" stop="20210422091300 -0500" channel="Canal Discovery Kids (México)">
     <title lang="es">Peppa</title>
   </programme>
-  <programme start="20210420091300 -0500" stop="20210420093900 -0500" channel="Canal Discovery Kids (México)">
+  <programme start="20210422091300 -0500" stop="20210422093900 -0500" channel="Canal Discovery Kids (México)">
     <title lang="es">Peppa</title>
   </programme>
-  <programme start="20210420093900 -0500" stop="20210420100500 -0500" channel="Canal Discovery Kids (México)">
+  <programme start="20210422093900 -0500" stop="20210422100500 -0500" channel="Canal Discovery Kids (México)">
     <title lang="es">Peppa</title>
   </programme>
-  <programme start="20210420100500 -0500" stop="20210420104200 -0500" channel="Canal Discovery Kids (México)">
-    <title lang="es">Jorge, el curioso</title>
+  <programme start="20210422100500 -0500" stop="20210422103100 -0500" channel="Canal Discovery Kids (México)">
+    <title lang="es">Jorge el curioso</title>
   </programme>
-  <programme start="20210420104200 -0500" stop="20210420110900 -0500" channel="Canal Discovery Kids (México)">
-    <title lang="es">44 Gatos</title>
+  <programme start="20210422103100 -0500" stop="20210422121600 -0500" channel="Canal Discovery Kids (México)">
+    <title lang="es">La abeja Maya Los juegos</title>
   </programme>
-  <programme start="20210420110900 -0500" stop="20210420113700 -0500" channel="Canal Discovery Kids (México)">
-    <title lang="es">44 Gatos</title>
-  </programme>
-  <programme start="20210420113700 -0500" stop="20210420121600 -0500" channel="Canal Discovery Kids (México)">
-    <title lang="es">44 Gatos</title>
-  </programme>
-  <programme start="20210420121600 -0500" stop="20210420123100 -0500" channel="Canal Discovery Kids (México)">
+  <programme start="20210422121600 -0500" stop="20210422123100 -0500" channel="Canal Discovery Kids (México)">
     <title lang="es">Polly Pocket</title>
   </programme>
-  <programme start="20210420123100 -0500" stop="20210420125600 -0500" channel="Canal Discovery Kids (México)">
+  <programme start="20210422123100 -0500" stop="20210422125600 -0500" channel="Canal Discovery Kids (México)">
     <title lang="es">My Little Pony Pony Lif</title>
   </programme>
-  <programme start="20210420125600 -0500" stop="20210420134600 -0500" channel="Canal Discovery Kids (México)">
+  <programme start="20210422125600 -0500" stop="20210422134600 -0500" channel="Canal Discovery Kids (México)">
     <title lang="es">Peppa</title>
   </programme>
-  <programme start="20210420134600 -0500" stop="20210420140800 -0500" channel="Canal Discovery Kids (México)">
+  <programme start="20210422134600 -0500" stop="20210422140800 -0500" channel="Canal Discovery Kids (México)">
     <title lang="es">¡Agente Binky al rescate</title>
   </programme>
-  <programme start="20210420140800 -0500" stop="20210420142300 -0500" channel="Canal Discovery Kids (México)">
+  <programme start="20210422140800 -0500" stop="20210422142300 -0500" channel="Canal Discovery Kids (México)">
     <title lang="es">¡Agente Binky al rescate</title>
   </programme>
-  <programme start="20210420142300 -0500" stop="20210420144800 -0500" channel="Canal Discovery Kids (México)">
-    <title lang="es">Jorge, el curioso</title>
+  <programme start="20210422142300 -0500" stop="20210422144800 -0500" channel="Canal Discovery Kids (México)">
+    <title lang="es">Jorge el curioso</title>
   </programme>
-  <programme start="20210420144800 -0500" stop="20210420151000 -0500" channel="Canal Discovery Kids (México)">
-    <title lang="es">Jorge, el curioso</title>
+  <programme start="20210422144800 -0500" stop="20210422151000 -0500" channel="Canal Discovery Kids (México)">
+    <title lang="es">Jorge el curioso</title>
   </programme>
-  <programme start="20210420151000 -0500" stop="20210420153500 -0500" channel="Canal Discovery Kids (México)">
-    <title lang="es">Jorge, el curioso</title>
+  <programme start="20210422151000 -0500" stop="20210422153500 -0500" channel="Canal Discovery Kids (México)">
+    <title lang="es">Jorge el curioso</title>
   </programme>
-  <programme start="20210420153500 -0500" stop="20210420160100 -0500" channel="Canal Discovery Kids (México)">
+  <programme start="20210422153500 -0500" stop="20210422160100 -0500" channel="Canal Discovery Kids (México)">
     <title lang="es">Peppa</title>
   </programme>
-  <programme start="20210420160100 -0500" stop="20210420162700 -0500" channel="Canal Discovery Kids (México)">
+  <programme start="20210422160100 -0500" stop="20210422162700 -0500" channel="Canal Discovery Kids (México)">
     <title lang="es">Peppa</title>
   </programme>
-  <programme start="20210420162700 -0500" stop="20210420165300 -0500" channel="Canal Discovery Kids (México)">
+  <programme start="20210422162700 -0500" stop="20210422165300 -0500" channel="Canal Discovery Kids (México)">
     <title lang="es">Peppa</title>
   </programme>
-  <programme start="20210420165300 -0500" stop="20210420172900 -0500" channel="Canal Discovery Kids (México)">
+  <programme start="20210422165300 -0500" stop="20210422172900 -0500" channel="Canal Discovery Kids (México)">
     <title lang="es">Peppa</title>
   </programme>
-  <programme start="20210420172900 -0500" stop="20210420180800 -0500" channel="Canal Discovery Kids (México)">
+  <programme start="20210422172900 -0500" stop="20210422180800 -0500" channel="Canal Discovery Kids (México)">
     <title lang="es">Supermonstruos</title>
   </programme>
-  <programme start="20210420180800 -0500" stop="20210420184500 -0500" channel="Canal Discovery Kids (México)">
-    <title lang="es">Jorge, el curioso</title>
+  <programme start="20210422180800 -0500" stop="20210422184500 -0500" channel="Canal Discovery Kids (México)">
+    <title lang="es">Jorge el curioso</title>
   </programme>
-  <programme start="20210420184500 -0500" stop="20210420191200 -0500" channel="Canal Discovery Kids (México)">
+  <programme start="20210422184500 -0500" stop="20210422191200 -0500" channel="Canal Discovery Kids (México)">
     <title lang="es">44 Gatos</title>
   </programme>
-  <programme start="20210420191200 -0500" stop="20210420200700 -0500" channel="Canal Discovery Kids (México)">
-    <title lang="es">Jorge, el curioso</title>
+  <programme start="20210422191200 -0500" stop="20210422200700 -0500" channel="Canal Discovery Kids (México)">
+    <title lang="es">Jorge el curioso</title>
   </programme>
-  <programme start="20210420200700 -0500" stop="20210420204300 -0500" channel="Canal Discovery Kids (México)">
+  <programme start="20210422200700 -0500" stop="20210422204300 -0500" channel="Canal Discovery Kids (México)">
     <title lang="es">Peppa</title>
   </programme>
-  <programme start="20210420204300 -0500" stop="20210420214300 -0500" channel="Canal Discovery Kids (México)">
-    <title lang="es">¡Agente Binky al rescate</title>
+  <programme start="20210422204300 -0500" stop="20210422220600 -0500" channel="Canal Discovery Kids (México)">
+    <title lang="es">La abeja Maya Los juegos</title>
   </programme>
-  <programme start="20210420214300 -0500" stop="20210420220600 -0500" channel="Canal Discovery Kids (México)">
-    <title lang="es">44 Gatos</title>
-  </programme>
-  <programme start="20210420220600 -0500" stop="20210420230800 -0500" channel="Canal Discovery Kids (México)">
+  <programme start="20210422220600 -0500" stop="20210422230800 -0500" channel="Canal Discovery Kids (México)">
     <title lang="es">Polly Pocket</title>
   </programme>
-  <programme start="20210420230800 -0500" stop="20210420233400 -0500" channel="Canal Discovery Kids (México)">
-    <title lang="es">Jorge, el curioso</title>
+  <programme start="20210422230800 -0500" stop="20210422233400 -0500" channel="Canal Discovery Kids (México)">
+    <title lang="es">Jorge el curioso</title>
   </programme>
-  <programme start="20210420233400 -0500" stop="20210421000000 -0500" channel="Canal Discovery Kids (México)">
-    <title lang="es">Jorge, el curioso</title>
+  <programme start="20210422233400 -0500" stop="20210423000000 -0500" channel="Canal Discovery Kids (México)">
+    <title lang="es">Jorge el curioso</title>
   </programme>
-  <programme start="20210420002500 -0500" stop="20210420005400 -0500" channel="Canal Disney Channel (México)">
-    <title lang="es">Austin &amp; Ally</title>
+  <programme start="20210422001400 -0500" stop="20210422003800 -0500" channel="Canal Disney Channel (México)">
+    <title lang="es">¡Buena suerte, Charlie</title>
   </programme>
-  <programme start="20210420005400 -0500" stop="20210420023600 -0500" channel="Canal Disney Channel (México)">
-    <title lang="es">Upside-Down Magic Escuela de</title>
-  </programme>
-  <programme start="20210420023600 -0500" stop="20210420034600 -0500" channel="Canal Disney Channel (México)">
-    <title lang="es">Soy Luna</title>
-  </programme>
-  <programme start="20210420034600 -0500" stop="20210420042300 -0500" channel="Canal Disney Channel (México)">
-    <title lang="es">Coop y Cami</title>
-  </programme>
-  <programme start="20210420042300 -0500" stop="20210420045300 -0500" channel="Canal Disney Channel (México)">
-    <title lang="es">Sydney como Max</title>
-  </programme>
-  <programme start="20210420045300 -0500" stop="20210420052400 -0500" channel="Canal Disney Channel (México)">
-    <title lang="es">Gabby Duran Niñera de aliens</title>
-  </programme>
-  <programme start="20210420052400 -0500" stop="20210420055200 -0500" channel="Canal Disney Channel (México)">
-    <title lang="es">Los Vecinos Green</title>
-  </programme>
-  <programme start="20210420055200 -0500" stop="20210420062300 -0500" channel="Canal Disney Channel (México)">
+  <programme start="20210422003800 -0500" stop="20210422010000 -0500" channel="Canal Disney Channel (México)">
     <title lang="es">Gravity Falls</title>
   </programme>
-  <programme start="20210420062300 -0500" stop="20210420071100 -0500" channel="Canal Disney Channel (México)">
-    <title lang="es">Hotel Transylvania La serie</title>
-  </programme>
-  <programme start="20210420071100 -0500" stop="20210420072600 -0500" channel="Canal Disney Channel (México)">
-    <title lang="es">Mickey Mouse</title>
-  </programme>
-  <programme start="20210420072600 -0500" stop="20210420075400 -0500" channel="Canal Disney Channel (México)">
-    <title lang="es">Miraculous</title>
-  </programme>
-  <programme start="20210420075400 -0500" stop="20210420082500 -0500" channel="Canal Disney Channel (México)">
-    <title lang="es">Glitter Model</title>
-  </programme>
-  <programme start="20210420082500 -0500" stop="20210420090600 -0500" channel="Canal Disney Channel (México)">
-    <title lang="es">Las aventuras enredadas</title>
-  </programme>
-  <programme start="20210420090600 -0500" stop="20210420092500 -0500" channel="Canal Disney Channel (México)">
-    <title lang="es">Miraculous</title>
-  </programme>
-  <programme start="20210420092500 -0500" stop="20210420095500 -0500" channel="Canal Disney Channel (México)">
-    <title lang="es">Miraculous</title>
-  </programme>
-  <programme start="20210420095500 -0500" stop="20210420102500 -0500" channel="Canal Disney Channel (México)">
-    <title lang="es">Miraculous Las aventuras de</title>
-  </programme>
-  <programme start="20210420102500 -0500" stop="20210420110700 -0500" channel="Canal Disney Channel (México)">
-    <title lang="es">Miraculous</title>
-  </programme>
-  <programme start="20210420110700 -0500" stop="20210420112500 -0500" channel="Canal Disney Channel (México)">
-    <title lang="es">Holly Hobbie</title>
-  </programme>
-  <programme start="20210420112500 -0500" stop="20210420115500 -0500" channel="Canal Disney Channel (México)">
-    <title lang="es">Holly Hobbie</title>
-  </programme>
-  <programme start="20210420115500 -0500" stop="20210420122500 -0500" channel="Canal Disney Channel (México)">
-    <title lang="es">Jessie</title>
-  </programme>
-  <programme start="20210420122500 -0500" stop="20210420130700 -0500" channel="Canal Disney Channel (México)">
-    <title lang="es">Andi Mack</title>
-  </programme>
-  <programme start="20210420130700 -0500" stop="20210420143800 -0500" channel="Canal Disney Channel (México)">
-    <title lang="es">Upside-Down Magic Escuela de</title>
-  </programme>
-  <programme start="20210420143800 -0500" stop="20210420151000 -0500" channel="Canal Disney Channel (México)">
-    <title lang="es">DC Halloween House Party</title>
-  </programme>
-  <programme start="20210420151000 -0500" stop="20210420164100 -0500" channel="Canal Disney Channel (México)">
-    <title lang="es">Zombies 2</title>
-  </programme>
-  <programme start="20210420164100 -0500" stop="20210420174900 -0500" channel="Canal Disney Channel (México)">
-    <title lang="es">Holiday Magic Quest</title>
-  </programme>
-  <programme start="20210420174900 -0500" stop="20210420193900 -0500" channel="Canal Disney Channel (México)">
-    <title lang="es">Teen Beach Movie</title>
-  </programme>
-  <programme start="20210420193900 -0500" stop="20210420214200 -0500" channel="Canal Disney Channel (México)">
-    <title lang="es">High School Musical</title>
-  </programme>
-  <programme start="20210420214200 -0500" stop="20210420232300 -0500" channel="Canal Disney Channel (México)">
-    <title lang="es">Upside-Down Magic Escuela de</title>
-  </programme>
-  <programme start="20210420232300 -0500" stop="20210421000000 -0500" channel="Canal Disney Channel (México)">
-    <title lang="es">Gravity Falls</title>
-  </programme>
-  <programme start="20210420001200 -0500" stop="20210420002700 -0500" channel="Canal Disney XD (México)">
-    <title lang="es">Pecezuelos</title>
-  </programme>
-  <programme start="20210420002700 -0500" stop="20210420004200 -0500" channel="Canal Disney XD (México)">
-    <title lang="es">Pickle y Maní</title>
-  </programme>
-  <programme start="20210420004200 -0500" stop="20210420005700 -0500" channel="Canal Disney XD (México)">
-    <title lang="es">Gusano del Futuro</title>
-  </programme>
-  <programme start="20210420005700 -0500" stop="20210420012300 -0500" channel="Canal Disney XD (México)">
-    <title lang="es">O11CE</title>
-  </programme>
-  <programme start="20210420012300 -0500" stop="20210420015200 -0500" channel="Canal Disney XD (México)">
-    <title lang="es">Gravity Falls</title>
-  </programme>
-  <programme start="20210420015200 -0500" stop="20210420022500 -0500" channel="Canal Disney XD (México)">
-    <title lang="es">O11CE</title>
-  </programme>
-  <programme start="20210420022500 -0500" stop="20210420025200 -0500" channel="Canal Disney XD (México)">
-    <title lang="es">Phineas y Ferb</title>
-  </programme>
-  <programme start="20210420025200 -0500" stop="20210420032200 -0500" channel="Canal Disney XD (México)">
-    <title lang="es">Gravity Falls</title>
-  </programme>
-  <programme start="20210420032200 -0500" stop="20210420035200 -0500" channel="Canal Disney XD (México)">
-    <title lang="es">Kick Buttowski</title>
-  </programme>
-  <programme start="20210420035200 -0500" stop="20210420042200 -0500" channel="Canal Disney XD (México)">
-    <title lang="es">Gravity Falls</title>
-  </programme>
-  <programme start="20210420042200 -0500" stop="20210420045200 -0500" channel="Canal Disney XD (México)">
+  <programme start="20210422010000 -0500" stop="20210422012200 -0500" channel="Canal Disney Channel (México)">
     <title lang="es">Star vs. Las Fuerzas del Mal</title>
   </programme>
-  <programme start="20210420045200 -0500" stop="20210420052200 -0500" channel="Canal Disney XD (México)">
-    <title lang="es">¡Bum, Pum, Kapow</title>
+  <programme start="20210422012200 -0500" stop="20210422014600 -0500" channel="Canal Disney Channel (México)">
+    <title lang="es">Acampados</title>
   </programme>
-  <programme start="20210420052200 -0500" stop="20210420055200 -0500" channel="Canal Disney XD (México)">
-    <title lang="es">Yo-Kai Watch</title>
+  <programme start="20210422014600 -0500" stop="20210422020800 -0500" channel="Canal Disney Channel (México)">
+    <title lang="es">Los Hechiceros de Waverly Pla</title>
   </programme>
-  <programme start="20210420055200 -0500" stop="20210420061200 -0500" channel="Canal Disney XD (México)">
-    <title lang="es">Pecezuelos</title>
+  <programme start="20210422020800 -0500" stop="20210422025400 -0500" channel="Canal Disney Channel (México)">
+    <title lang="es">Soy Luna</title>
   </programme>
-  <programme start="20210420061200 -0500" stop="20210420062700 -0500" channel="Canal Disney XD (México)">
-    <title lang="es">Gusano del Futuro</title>
+  <programme start="20210422025400 -0500" stop="20210422031700 -0500" channel="Canal Disney Channel (México)">
+    <title lang="es">Coop y Cami</title>
   </programme>
-  <programme start="20210420062700 -0500" stop="20210420065600 -0500" channel="Canal Disney XD (México)">
-    <title lang="es">Pickle y Maní</title>
+  <programme start="20210422031700 -0500" stop="20210422034000 -0500" channel="Canal Disney Channel (México)">
+    <title lang="es">Sydney como Max</title>
   </programme>
-  <programme start="20210420065600 -0500" stop="20210420071100 -0500" channel="Canal Disney XD (México)">
+  <programme start="20210422034000 -0500" stop="20210422040200 -0500" channel="Canal Disney Channel (México)">
+    <title lang="es">Gabby Duran Niñera de aliens</title>
+  </programme>
+  <programme start="20210422040200 -0500" stop="20210422042500 -0500" channel="Canal Disney Channel (México)">
     <title lang="es">Los Vecinos Green</title>
   </programme>
-  <programme start="20210420071100 -0500" stop="20210420074100 -0500" channel="Canal Disney XD (México)">
-    <title lang="es">Kick Buttowski</title>
+  <programme start="20210422042500 -0500" stop="20210422044700 -0500" channel="Canal Disney Channel (México)">
+    <title lang="es">Andi Mack</title>
   </programme>
-  <programme start="20210420074100 -0500" stop="20210420075600 -0500" channel="Canal Disney XD (México)">
-    <title lang="es">Cupcake &amp; Dino Servicios gen</title>
-  </programme>
-  <programme start="20210420075600 -0500" stop="20210420082900 -0500" channel="Canal Disney XD (México)">
-    <title lang="es">Guardianes de la galaxia ? Mi</title>
-  </programme>
-  <programme start="20210420082900 -0500" stop="20210420090200 -0500" channel="Canal Disney XD (México)">
-    <title lang="es">Marvel Los Vengadores.</title>
-  </programme>
-  <programme start="20210420090200 -0500" stop="20210420092400 -0500" channel="Canal Disney XD (México)">
-    <title lang="es">Trollhunters De Guillermo Del</title>
-  </programme>
-  <programme start="20210420092400 -0500" stop="20210420095400 -0500" channel="Canal Disney XD (México)">
-    <title lang="es">Trollhunters De Guillermo Del</title>
-  </programme>
-  <programme start="20210420095400 -0500" stop="20210420103100 -0500" channel="Canal Disney XD (México)">
+  <programme start="20210422044700 -0500" stop="20210422050900 -0500" channel="Canal Disney Channel (México)">
     <title lang="es">Gravity Falls</title>
   </programme>
-  <programme start="20210420103100 -0500" stop="20210420105300 -0500" channel="Canal Disney XD (México)">
-    <title lang="es">The Owl House ? La Casa Búho</title>
+  <programme start="20210422050900 -0500" stop="20210422053100 -0500" channel="Canal Disney Channel (México)">
+    <title lang="es">Miraculous Las aventuras de</title>
   </programme>
-  <programme start="20210420105300 -0500" stop="20210420112600 -0500" channel="Canal Disney XD (México)">
+  <programme start="20210422053100 -0500" stop="20210422060000 -0500" channel="Canal Disney Channel (México)">
+    <title lang="es">Coop y Cami</title>
+  </programme>
+  <programme start="20210422060000 -0500" stop="20210422062400 -0500" channel="Canal Disney Channel (México)">
+    <title lang="es">Miraculous</title>
+  </programme>
+  <programme start="20210422062400 -0500" stop="20210422065800 -0500" channel="Canal Disney Channel (México)">
+    <title lang="es">Gravity Falls</title>
+  </programme>
+  <programme start="20210422065800 -0500" stop="20210422074400 -0500" channel="Canal Disney Channel (México)">
+    <title lang="es">Los 7E</title>
+  </programme>
+  <programme start="20210422074400 -0500" stop="20210422080000 -0500" channel="Canal Disney Channel (México)">
+    <title lang="es">Zip Zip</title>
+  </programme>
+  <programme start="20210422080000 -0500" stop="20210422082400 -0500" channel="Canal Disney Channel (México)">
+    <title lang="es">Hotel Transylvania</title>
+  </programme>
+  <programme start="20210422082400 -0500" stop="20210422085900 -0500" channel="Canal Disney Channel (México)">
     <title lang="es">Amphibia</title>
   </programme>
-  <programme start="20210420112600 -0500" stop="20210420115600 -0500" channel="Canal Disney XD (México)">
-    <title lang="es">Trollhunters. De Guillermo De</title>
+  <programme start="20210422085900 -0500" stop="20210422092300 -0500" channel="Canal Disney Channel (México)">
+    <title lang="es">Enredados otra vez La serie</title>
   </programme>
-  <programme start="20210420115600 -0500" stop="20210420122400 -0500" channel="Canal Disney XD (México)">
-    <title lang="es">Grandes Héroes: La Serie</title>
+  <programme start="20210422092300 -0500" stop="20210422102100 -0500" channel="Canal Disney Channel (México)">
+    <title lang="es">Miraculous</title>
   </programme>
-  <programme start="20210420122400 -0500" stop="20210420125500 -0500" channel="Canal Disney XD (México)">
-    <title lang="es">Gravity Falls</title>
+  <programme start="20210422102100 -0500" stop="20210422105900 -0500" channel="Canal Disney Channel (México)">
+    <title lang="es">The Owl House ? La Casa Búho</title>
   </programme>
-  <programme start="20210420125500 -0500" stop="20210420132500 -0500" channel="Canal Disney XD (México)">
-    <title lang="es">Patoaventuras</title>
+  <programme start="20210422105900 -0500" stop="20210422112200 -0500" channel="Canal Disney Channel (México)">
+    <title lang="es">Hotel Transylvania</title>
   </programme>
-  <programme start="20210420132500 -0500" stop="20210420135400 -0500" channel="Canal Disney XD (México)">
-    <title lang="es">Kick Buttowski</title>
+  <programme start="20210422112200 -0500" stop="20210422115800 -0500" channel="Canal Disney Channel (México)">
+    <title lang="es">Hotel Transylvania La serie</title>
   </programme>
-  <programme start="20210420135400 -0500" stop="20210420142500 -0500" channel="Canal Disney XD (México)">
-    <title lang="es">Trollhunters. De Guillermo De</title>
+  <programme start="20210422115800 -0500" stop="20210422122500 -0500" channel="Canal Disney Channel (México)">
+    <title lang="es">Miraculous</title>
   </programme>
-  <programme start="20210420142500 -0500" stop="20210420145400 -0500" channel="Canal Disney XD (México)">
-    <title lang="es">Trollhunters. De Guillermo De</title>
+  <programme start="20210422122500 -0500" stop="20210422125900 -0500" channel="Canal Disney Channel (México)">
+    <title lang="es">Miraculous</title>
   </programme>
-  <programme start="20210420145400 -0500" stop="20210420152500 -0500" channel="Canal Disney XD (México)">
-    <title lang="es">Trollhunters. De Guillermo De</title>
+  <programme start="20210422125900 -0500" stop="20210422132500 -0500" channel="Canal Disney Channel (México)">
+    <title lang="es">Los Hechiceros de Waverly Pla</title>
   </programme>
-  <programme start="20210420152500 -0500" stop="20210420155500 -0500" channel="Canal Disney XD (México)">
-    <title lang="es">Trollhunters. De Guillermo De</title>
+  <programme start="20210422132500 -0500" stop="20210422140000 -0500" channel="Canal Disney Channel (México)">
+    <title lang="es">Es tan Raven</title>
   </programme>
-  <programme start="20210420155500 -0500" stop="20210420162500 -0500" channel="Canal Disney XD (México)">
-    <title lang="es">Trollhunters. De Guillermo De</title>
+  <programme start="20210422140000 -0500" stop="20210422142500 -0500" channel="Canal Disney Channel (México)">
+    <title lang="es">Zack y Cody Gemelos a bordo</title>
   </programme>
-  <programme start="20210420162500 -0500" stop="20210420171200 -0500" channel="Canal Disney XD (México)">
-    <title lang="es">Trollhunters. De Guillermo De</title>
+  <programme start="20210422142500 -0500" stop="20210422150200 -0500" channel="Canal Disney Channel (México)">
+    <title lang="es">Andi Mack</title>
   </programme>
-  <programme start="20210420171200 -0500" stop="20210420172700 -0500" channel="Canal Disney XD (México)">
-    <title lang="es">Pecezuelos</title>
+  <programme start="20210422150200 -0500" stop="20210422153000 -0500" channel="Canal Disney Channel (México)">
+    <title lang="es">Coop y Cami</title>
   </programme>
-  <programme start="20210420172700 -0500" stop="20210420174200 -0500" channel="Canal Disney XD (México)">
-    <title lang="es">Galaxia Wander</title>
+  <programme start="20210422153000 -0500" stop="20210422164500 -0500" channel="Canal Disney Channel (México)">
+    <title lang="es">Bia</title>
   </programme>
-  <programme start="20210420174200 -0500" stop="20210420175700 -0500" channel="Canal Disney XD (México)">
-    <title lang="es">Gusano del Futuro</title>
-  </programme>
-  <programme start="20210420175700 -0500" stop="20210420193600 -0500" channel="Canal Disney XD (México)">
-    <title lang="es">Mark y Russell en un viaje</title>
-  </programme>
-  <programme start="20210420193600 -0500" stop="20210420202500 -0500" channel="Canal Disney XD (México)">
-    <title lang="es">Grandes Héroes: La Serie</title>
-  </programme>
-  <programme start="20210420202500 -0500" stop="20210420205400 -0500" channel="Canal Disney XD (México)">
-    <title lang="es">Gravity Falls</title>
-  </programme>
-  <programme start="20210420205400 -0500" stop="20210420212500 -0500" channel="Canal Disney XD (México)">
+  <programme start="20210422164500 -0500" stop="20210422170000 -0500" channel="Canal Disney Channel (México)">
     <title lang="es">Los Vecinos Green</title>
   </programme>
-  <programme start="20210420212500 -0500" stop="20210420215500 -0500" channel="Canal Disney XD (México)">
-    <title lang="es">Trollhunters De Guillermo Del</title>
+  <programme start="20210422170000 -0500" stop="20210422172500 -0500" channel="Canal Disney Channel (México)">
+    <title lang="es">Holly Hobbie</title>
   </programme>
-  <programme start="20210420215500 -0500" stop="20210420222500 -0500" channel="Canal Disney XD (México)">
-    <title lang="es">Trollhunters. De Guillermo De</title>
+  <programme start="20210422172500 -0500" stop="20210422182300 -0500" channel="Canal Disney Channel (México)">
+    <title lang="es">Gabby Duran Niñera de aliens</title>
   </programme>
-  <programme start="20210420222500 -0500" stop="20210420225500 -0500" channel="Canal Disney XD (México)">
+  <programme start="20210422182300 -0500" stop="20210422190100 -0500" channel="Canal Disney Channel (México)">
+    <title lang="es">¡Vete ya, unicornio</title>
+  </programme>
+  <programme start="20210422190100 -0500" stop="20210422193400 -0500" channel="Canal Disney Channel (México)">
+    <title lang="es">Encuéntrame en París</title>
+  </programme>
+  <programme start="20210422193400 -0500" stop="20210422200200 -0500" channel="Canal Disney Channel (México)">
+    <title lang="es">Miraculous Las aventuras de</title>
+  </programme>
+  <programme start="20210422200200 -0500" stop="20210422202800 -0500" channel="Canal Disney Channel (México)">
+    <title lang="es">Hannah Montana</title>
+  </programme>
+  <programme start="20210422202800 -0500" stop="20210422210000 -0500" channel="Canal Disney Channel (México)">
+    <title lang="es">Sydney como Max</title>
+  </programme>
+  <programme start="20210422210000 -0500" stop="20210422212600 -0500" channel="Canal Disney Channel (México)">
+    <title lang="es">Acampados</title>
+  </programme>
+  <programme start="20210422212600 -0500" stop="20210422220000 -0500" channel="Canal Disney Channel (México)">
+    <title lang="es">Acampados</title>
+  </programme>
+  <programme start="20210422220000 -0500" stop="20210422222500 -0500" channel="Canal Disney Channel (México)">
+    <title lang="es">Los Hechiceros de Waverly Pla</title>
+  </programme>
+  <programme start="20210422222500 -0500" stop="20210422230000 -0500" channel="Canal Disney Channel (México)">
+    <title lang="es">Miraculous Las aventuras de</title>
+  </programme>
+  <programme start="20210422230000 -0500" stop="20210422232700 -0500" channel="Canal Disney Channel (México)">
+    <title lang="es">Encuéntrame en París</title>
+  </programme>
+  <programme start="20210422232700 -0500" stop="20210422235200 -0500" channel="Canal Disney Channel (México)">
+    <title lang="es">Andi Mack</title>
+  </programme>
+  <programme start="20210422235200 -0500" stop="20210423002400 -0500" channel="Canal Disney Channel (México)">
+    <title lang="es">Los Hechiceros de Waverly Pla</title>
+  </programme>
+  <programme start="20210422003700 -0500" stop="20210422005800 -0500" channel="Canal Disney XD (México)">
+    <title lang="es">O11CE</title>
+  </programme>
+  <programme start="20210422005800 -0500" stop="20210422012000 -0500" channel="Canal Disney XD (México)">
     <title lang="es">Gravity Falls</title>
   </programme>
-  <programme start="20210420225500 -0500" stop="20210420232500 -0500" channel="Canal Disney XD (México)">
-    <title lang="es">Randy Cunningham Ninja Total</title>
+  <programme start="20210422012000 -0500" stop="20210422014100 -0500" channel="Canal Disney XD (México)">
+    <title lang="es">O11CE</title>
   </programme>
-  <programme start="20210420232500 -0500" stop="20210421000000 -0500" channel="Canal Disney XD (México)">
+  <programme start="20210422014100 -0500" stop="20210422020400 -0500" channel="Canal Disney XD (México)">
+    <title lang="es">Phineas y Ferb</title>
+  </programme>
+  <programme start="20210422020400 -0500" stop="20210422022700 -0500" channel="Canal Disney XD (México)">
+    <title lang="es">Gravity Falls</title>
+  </programme>
+  <programme start="20210422022700 -0500" stop="20210422025000 -0500" channel="Canal Disney XD (México)">
+    <title lang="es">Kick Buttowski</title>
+  </programme>
+  <programme start="20210422025000 -0500" stop="20210422031100 -0500" channel="Canal Disney XD (México)">
+    <title lang="es">Gravity Falls</title>
+  </programme>
+  <programme start="20210422031100 -0500" stop="20210422033400 -0500" channel="Canal Disney XD (México)">
+    <title lang="es">Star vs. Las Fuerzas del Mal</title>
+  </programme>
+  <programme start="20210422033400 -0500" stop="20210422035500 -0500" channel="Canal Disney XD (México)">
+    <title lang="es">¡Bum, Pum, Kapow</title>
+  </programme>
+  <programme start="20210422035500 -0500" stop="20210422041800 -0500" channel="Canal Disney XD (México)">
+    <title lang="es">Yo-Kai Watch</title>
+  </programme>
+  <programme start="20210422041800 -0500" stop="20210422044000 -0500" channel="Canal Disney XD (México)">
+    <title lang="es">Phineas y Ferb</title>
+  </programme>
+  <programme start="20210422044000 -0500" stop="20210422050300 -0500" channel="Canal Disney XD (México)">
+    <title lang="es">Star vs. Las Fuerzas del Mal</title>
+  </programme>
+  <programme start="20210422050300 -0500" stop="20210422052600 -0500" channel="Canal Disney XD (México)">
+    <title lang="es">Los Vecinos Green</title>
+  </programme>
+  <programme start="20210422052600 -0500" stop="20210422072400 -0500" channel="Canal Disney XD (México)">
+    <title lang="es">Star vs. Las Fuerzas del Mal</title>
+  </programme>
+  <programme start="20210422072400 -0500" stop="20210422074800 -0500" channel="Canal Disney XD (México)">
+    <title lang="es">Hércules</title>
+  </programme>
+  <programme start="20210422074800 -0500" stop="20210422100000 -0500" channel="Canal Disney XD (México)">
+    <title lang="es">Las aventuras de Timón y Pumb</title>
+  </programme>
+  <programme start="20210422100000 -0500" stop="20210422102400 -0500" channel="Canal Disney XD (México)">
+    <title lang="es">Galaxia Wander</title>
+  </programme>
+  <programme start="20210422102400 -0500" stop="20210422104400 -0500" channel="Canal Disney XD (México)">
+    <title lang="es">Galaxia Wander</title>
+  </programme>
+  <programme start="20210422104400 -0500" stop="20210422113200 -0500" channel="Canal Disney XD (México)">
+    <title lang="es">Galaxia Wander</title>
+  </programme>
+  <programme start="20210422113200 -0500" stop="20210422122400 -0500" channel="Canal Disney XD (México)">
+    <title lang="es">Star vs. Las Fuerzas del Mal</title>
+  </programme>
+  <programme start="20210422122400 -0500" stop="20210422130000 -0500" channel="Canal Disney XD (México)">
+    <title lang="es">Trollhunters. De Guillermo De</title>
+  </programme>
+  <programme start="20210422130000 -0500" stop="20210422132300 -0500" channel="Canal Disney XD (México)">
+    <title lang="es">Patoaventuras</title>
+  </programme>
+  <programme start="20210422132300 -0500" stop="20210422135800 -0500" channel="Canal Disney XD (México)">
+    <title lang="es">Grandes Héroes: La Serie</title>
+  </programme>
+  <programme start="20210422135800 -0500" stop="20210422142300 -0500" channel="Canal Disney XD (México)">
+    <title lang="es">Gravity Falls</title>
+  </programme>
+  <programme start="20210422142300 -0500" stop="20210422150100 -0500" channel="Canal Disney XD (México)">
+    <title lang="es">Los Vecinos Green</title>
+  </programme>
+  <programme start="20210422150100 -0500" stop="20210422152700 -0500" channel="Canal Disney XD (México)">
+    <title lang="es">The Owl House ? La Casa Búho</title>
+  </programme>
+  <programme start="20210422152700 -0500" stop="20210422155200 -0500" channel="Canal Disney XD (México)">
+    <title lang="es">The Owl House ? La Casa Búho</title>
+  </programme>
+  <programme start="20210422155200 -0500" stop="20210422175500 -0500" channel="Canal Disney XD (México)">
+    <title lang="es">The Owl House ? La Casa Búho</title>
+  </programme>
+  <programme start="20210422175500 -0500" stop="20210422182100 -0500" channel="Canal Disney XD (México)">
+    <title lang="es">Trollhunters. De Guillermo De</title>
+  </programme>
+  <programme start="20210422182100 -0500" stop="20210422185800 -0500" channel="Canal Disney XD (México)">
+    <title lang="es">Marvel Spider-Man</title>
+  </programme>
+  <programme start="20210422185800 -0500" stop="20210422193500 -0500" channel="Canal Disney XD (México)">
+    <title lang="es">Grandes Héroes: La Serie</title>
+  </programme>
+  <programme start="20210422193500 -0500" stop="20210422200200 -0500" channel="Canal Disney XD (México)">
+    <title lang="es">The Owl House ? La Casa Búho</title>
+  </programme>
+  <programme start="20210422200200 -0500" stop="20210422204300 -0500" channel="Canal Disney XD (México)">
+    <title lang="es">Patoaventuras</title>
+  </programme>
+  <programme start="20210422204300 -0500" stop="20210422205800 -0500" channel="Canal Disney XD (México)">
+    <title lang="es">Kick Buttowski</title>
+  </programme>
+  <programme start="20210422205800 -0500" stop="20210422212500 -0500" channel="Canal Disney XD (México)">
+    <title lang="es">Los Vecinos Green</title>
+  </programme>
+  <programme start="20210422212500 -0500" stop="20210422215000 -0500" channel="Canal Disney XD (México)">
+    <title lang="es">Los Vecinos Green</title>
+  </programme>
+  <programme start="20210422215000 -0500" stop="20210422222500 -0500" channel="Canal Disney XD (México)">
+    <title lang="es">Los Vecinos Green</title>
+  </programme>
+  <programme start="20210422222500 -0500" stop="20210422235600 -0500" channel="Canal Disney XD (México)">
+    <title lang="es">Trollhunters. De Guillermo De</title>
+  </programme>
+  <programme start="20210422235600 -0500" stop="20210423005000 -0500" channel="Canal Disney XD (México)">
     <title lang="es">Pecezuelos</title>
   </programme>
-  <programme start="20210420012900 -0500" stop="20210420030400 -0500" channel="Canal Golden Plus">
-    <title lang="es">Dura verdad</title>
+  <programme start="20210422012100 -0500" stop="20210422025100 -0500" channel="Canal Golden Plus">
+    <title lang="es">Crímen paranormal</title>
   </programme>
-  <programme start="20210420030400 -0500" stop="20210420050300 -0500" channel="Canal Golden Plus">
-    <title lang="es">Un lugar maravilloso</title>
+  <programme start="20210422025100 -0500" stop="20210422042800 -0500" channel="Canal Golden Plus">
+    <title lang="es">12 Horas</title>
   </programme>
-  <programme start="20210420050300 -0500" stop="20210420062800 -0500" channel="Canal Golden Plus">
-    <title lang="es">Cómprame un Revolver</title>
+  <programme start="20210422042800 -0500" stop="20210422055500 -0500" channel="Canal Golden Plus">
+    <title lang="es">Oveja negra</title>
   </programme>
-  <programme start="20210420062800 -0500" stop="20210420080700 -0500" channel="Canal Golden Plus">
-    <title lang="es">Mi novio es un zombie</title>
+  <programme start="20210422055500 -0500" stop="20210422072000 -0500" channel="Canal Golden Plus">
+    <title lang="es">Carrusel</title>
   </programme>
-  <programme start="20210420080700 -0500" stop="20210420094700 -0500" channel="Canal Golden Plus">
-    <title lang="es">Hércules (2014)</title>
-  </programme>
-  <programme start="20210420094700 -0500" stop="20210420113100 -0500" channel="Canal Golden Plus">
+  <programme start="20210422072000 -0500" stop="20210422090600 -0500" channel="Canal Golden Plus">
     <title lang="es">Las ventajas de ser invisible</title>
   </programme>
-  <programme start="20210420113100 -0500" stop="20210420133400 -0500" channel="Canal Golden Plus">
-    <title lang="es">Divergente la serie: Leal</title>
+  <programme start="20210422090600 -0500" stop="20210422103300 -0500" channel="Canal Golden Plus">
+    <title lang="es">Te Juro que Yo no Fui</title>
   </programme>
-  <programme start="20210420133400 -0500" stop="20210420153300 -0500" channel="Canal Golden Plus">
-    <title lang="es">RoboCop (2014)</title>
+  <programme start="20210422103300 -0500" stop="20210422121400 -0500" channel="Canal Golden Plus">
+    <title lang="es">Suave patria</title>
   </programme>
-  <programme start="20210420153300 -0500" stop="20210420172200 -0500" channel="Canal Golden Plus">
-    <title lang="es">The Last Stand</title>
+  <programme start="20210422121400 -0500" stop="20210422134500 -0500" channel="Canal Golden Plus">
+    <title lang="es">Cómplices (2018)</title>
   </programme>
-  <programme start="20210420172200 -0500" stop="20210420191500 -0500" channel="Canal Golden Plus">
-    <title lang="es">Red: Retirados extremadamente duros</title>
+  <programme start="20210422134500 -0500" stop="20210422151200 -0500" channel="Canal Golden Plus">
+    <title lang="es">American curious</title>
   </programme>
-  <programme start="20210420191500 -0500" stop="20210420220000 -0500" channel="Canal Golden Plus">
-    <title lang="es">El Hobbit: La Desolación de Smaug</title>
+  <programme start="20210422151200 -0500" stop="20210422164800 -0500" channel="Canal Golden Plus">
+    <title lang="es">Cambio de Ruta</title>
   </programme>
-  <programme start="20210420220000 -0500" stop="20210420233900 -0500" channel="Canal Golden Plus">
-    <title lang="es">Hardcore Henry</title>
+  <programme start="20210422164800 -0500" stop="20210422181600 -0500" channel="Canal Golden Plus">
+    <title lang="es">En Las Buenas y En Las Malas</title>
   </programme>
-  <programme start="20210420233900 -0500" stop="20210421023300 -0500" channel="Canal Golden Plus">
-    <title lang="es">Cloud Atlas: La Red Invisible</title>
-  </programme>
-  <programme start="20210420011500 -0500" stop="20210420031000 -0500" channel="Canal Golden (México)">
-    <title lang="es">Cantinflas</title>
-  </programme>
-  <programme start="20210420031000 -0500" stop="20210420051900 -0500" channel="Canal Golden (México)">
-    <title lang="es">La otra Reina</title>
-  </programme>
-  <programme start="20210420051900 -0500" stop="20210420070600 -0500" channel="Canal Golden (México)">
-    <title lang="es">El ruido y la furia</title>
-  </programme>
-  <programme start="20210420070600 -0500" stop="20210420090400 -0500" channel="Canal Golden (México)">
-    <title lang="es">Lo Imposible</title>
-  </programme>
-  <programme start="20210420090400 -0500" stop="20210420110400 -0500" channel="Canal Golden (México)">
-    <title lang="es">El Día de la Unión</title>
-  </programme>
-  <programme start="20210420110400 -0500" stop="20210420132700 -0500" channel="Canal Golden (México)">
-    <title lang="es">El mayordomo</title>
-  </programme>
-  <programme start="20210420132700 -0500" stop="20210420151200 -0500" channel="Canal Golden (México)">
-    <title lang="es">Adultos primerizos</title>
-  </programme>
-  <programme start="20210420151200 -0500" stop="20210420172000 -0500" channel="Canal Golden (México)">
-    <title lang="es">¿Quién @# $ es papá</title>
-  </programme>
-  <programme start="20210420172000 -0500" stop="20210420191800 -0500" channel="Canal Golden (México)">
-    <title lang="es">¿Y dónde están las rubias</title>
-  </programme>
-  <programme start="20210420191800 -0500" stop="20210420213000 -0500" channel="Canal Golden (México)">
-    <title lang="es">Hitch Especialista en</title>
-  </programme>
-  <programme start="20210420213000 -0500" stop="20210420221800 -0500" channel="Canal Golden (México)">
-    <title lang="es">Cukur</title>
-  </programme>
-  <programme start="20210420221800 -0500" stop="20210420230600 -0500" channel="Canal Golden (México)">
-    <title lang="es">Cukur</title>
-  </programme>
-  <programme start="20210420230600 -0500" stop="20210421005200 -0500" channel="Canal Golden (México)">
-    <title lang="es">Vida Improvisada</title>
-  </programme>
-  <programme start="20210420015200 -0500" stop="20210420032800 -0500" channel="Canal Golden Edge">
-    <title lang="es">Cacería mortal</title>
-  </programme>
-  <programme start="20210420032800 -0500" stop="20210420053100 -0500" channel="Canal Golden Edge">
+  <programme start="20210422181600 -0500" stop="20210422200900 -0500" channel="Canal Golden Plus">
     <title lang="es">Una Última y nos vamos</title>
   </programme>
-  <programme start="20210420053100 -0500" stop="20210420062100 -0500" channel="Canal Golden Edge">
-    <title lang="es">Saint Seiya Warriors of</title>
+  <programme start="20210422200900 -0500" stop="20210422220000 -0500" channel="Canal Golden Plus">
+    <title lang="es">Cindy la regia</title>
   </programme>
-  <programme start="20210420062100 -0500" stop="20210420080100 -0500" channel="Canal Golden Edge">
-    <title lang="es">No se metan con mi vaca</title>
+  <programme start="20210422220000 -0500" stop="20210422235100 -0500" channel="Canal Golden Plus">
+    <title lang="es">Fuera del cielo</title>
   </programme>
-  <programme start="20210420080100 -0500" stop="20210420100000 -0500" channel="Canal Golden Edge">
-    <title lang="es">Mirreyes vs Godínez</title>
+  <programme start="20210422235100 -0500" stop="20210423014400 -0500" channel="Canal Golden Plus">
+    <title lang="es">Gueros</title>
   </programme>
-  <programme start="20210420100000 -0500" stop="20210420120100 -0500" channel="Canal Golden Edge">
-    <title lang="es">Step up todos a bailar</title>
+  <programme start="20210422003300 -0500" stop="20210422022800 -0500" channel="Canal Golden (México)">
+    <title lang="es">A la mala</title>
   </programme>
-  <programme start="20210420120100 -0500" stop="20210420135900 -0500" channel="Canal Golden Edge">
-    <title lang="es">3 Idiotas</title>
+  <programme start="20210422022800 -0500" stop="20210422041300 -0500" channel="Canal Golden (México)">
+    <title lang="es">Veinteañera</title>
   </programme>
-  <programme start="20210420135900 -0500" stop="20210420160800 -0500" channel="Canal Golden Edge">
-    <title lang="es">Chef a domicilio</title>
+  <programme start="20210422041300 -0500" stop="20210422055800 -0500" channel="Canal Golden (México)">
+    <title lang="es">Que Pena tu Vida</title>
   </programme>
-  <programme start="20210420160800 -0500" stop="20210420180100 -0500" channel="Canal Golden Edge">
-    <title lang="es">Olas salvajes</title>
+  <programme start="20210422055800 -0500" stop="20210422074000 -0500" channel="Canal Golden (México)">
+    <title lang="es">Hachiko Siempre a tu lado</title>
   </programme>
-  <programme start="20210420180100 -0500" stop="20210420195700 -0500" channel="Canal Golden Edge">
-    <title lang="es">Amar te duele</title>
+  <programme start="20210422074000 -0500" stop="20210422094800 -0500" channel="Canal Golden (México)">
+    <title lang="es">Latin Lover</title>
   </programme>
-  <programme start="20210420195700 -0500" stop="20210420220000 -0500" channel="Canal Golden Edge">
-    <title lang="es">Muerte Súbita</title>
+  <programme start="20210422094800 -0500" stop="20210422112700 -0500" channel="Canal Golden (México)">
+    <title lang="es">Astro Boy</title>
   </programme>
-  <programme start="20210420220000 -0500" stop="20210421002400 -0500" channel="Canal Golden Edge">
-    <title lang="es">Bajos instintos</title>
+  <programme start="20210422112700 -0500" stop="20210422133500 -0500" channel="Canal Golden (México)">
+    <title lang="es">Más allá de los sueños</title>
+  </programme>
+  <programme start="20210422133500 -0500" stop="20210422153500 -0500" channel="Canal Golden (México)">
+    <title lang="es">Las Sufragistas</title>
+  </programme>
+  <programme start="20210422153500 -0500" stop="20210422174800 -0500" channel="Canal Golden (México)">
+    <title lang="es">No se aceptan devoluciones</title>
+  </programme>
+  <programme start="20210422174800 -0500" stop="20210422193300 -0500" channel="Canal Golden (México)">
+    <title lang="es">Veinteañera</title>
+  </programme>
+  <programme start="20210422193300 -0500" stop="20210422213000 -0500" channel="Canal Golden (México)">
+    <title lang="es">Cindy la regia</title>
+  </programme>
+  <programme start="20210422213000 -0500" stop="20210422221600 -0500" channel="Canal Golden (México)">
+    <title lang="es">Cukur</title>
+  </programme>
+  <programme start="20210422221600 -0500" stop="20210422230300 -0500" channel="Canal Golden (México)">
+    <title lang="es">Cukur</title>
+  </programme>
+  <programme start="20210422230300 -0500" stop="20210423012800 -0500" channel="Canal Golden (México)">
+    <title lang="es">La desnudista 2</title>
+  </programme>
+  <programme start="20210422012900 -0500" stop="20210422032600 -0500" channel="Canal Golden Edge">
+    <title lang="es">Sin Escape</title>
+  </programme>
+  <programme start="20210422032600 -0500" stop="20210422055000 -0500" channel="Canal Golden Edge">
+    <title lang="es">La cabaña</title>
+  </programme>
+  <programme start="20210422055000 -0500" stop="20210422075800 -0500" channel="Canal Golden Edge">
+    <title lang="es">Dos son familia</title>
+  </programme>
+  <programme start="20210422075800 -0500" stop="20210422095100 -0500" channel="Canal Golden Edge">
+    <title lang="es">Dulce Familia</title>
+  </programme>
+  <programme start="20210422095100 -0500" stop="20210422113400 -0500" channel="Canal Golden Edge">
+    <title lang="es">Te presento a laura</title>
+  </programme>
+  <programme start="20210422113400 -0500" stop="20210422133100 -0500" channel="Canal Golden Edge">
+    <title lang="es">Cásese Quien Pueda</title>
+  </programme>
+  <programme start="20210422133100 -0500" stop="20210422152300 -0500" channel="Canal Golden Edge">
+    <title lang="es">El gran pequeño</title>
+  </programme>
+  <programme start="20210422152300 -0500" stop="20210422174600 -0500" channel="Canal Golden Edge">
+    <title lang="es">La cabaña</title>
+  </programme>
+  <programme start="20210422174600 -0500" stop="20210422193500 -0500" channel="Canal Golden Edge">
+    <title lang="es">El niño con el pijama de rayas</title>
+  </programme>
+  <programme start="20210422193500 -0500" stop="20210422220000 -0500" channel="Canal Golden Edge">
+    <title lang="es">Juego De Espias</title>
+  </programme>
+  <programme start="20210422220000 -0500" stop="20210422233500 -0500" channel="Canal Golden Edge">
+    <title lang="es">Terror en Chernobyl</title>
+  </programme>
+  <programme start="20210422233500 -0500" stop="20210423014600 -0500" channel="Canal Golden Edge">
+    <title lang="es">Agente Bajo Fuego</title>
   </programme>
 </tv>
